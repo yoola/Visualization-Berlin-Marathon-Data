@@ -1,0 +1,1141 @@
+Place;Start Number;Lastname;Firstname;Club;Nation;Year Of Birth;Sex;Age Class;Age Class Place;Chip Time;Gun Time;Year
+1;37;Hallas;Günter; ;GER; ;M;L1;1; ;02:44:53;1974
+2;26;Breuer;Rudolf; ;GER; ;M;L2;1; ;02:46:43;1974
+3;13;Olbrich;Günter; ;GER; ;M;L2;2; ;02:48:08;1974
+4;12;Daubermann;Dieter; ;GER; ;M;L;1; ;02:48:40;1974
+5;278;Sickert; ; ;GER; ;M;L1;2; ;02:49:01;1974
+6;10;Lewitz;Clifford; ;GER; ;M;L;2; ;02:49:42;1974
+7;41;Zettlitz;Horst; ;GER; ;M;L;3; ;02:53:48;1974
+8;14;Pieritz;Herbert; ;GER; ;M;L2;3; ;02:54:27;1974
+9;102;Heinze;Horst; ;GER; ;M;L2;4; ;02:55:08;1974
+10;148;Lewrick;Helmut; ;GER; ;M;L1;3; ;02:56:05;1974
+11;16;Blersch;Peter; ;GER; ;M;L1;4; ;02:56:22;1974
+12;39;Herzog;Klaus; ;GER; ;M;L2;5; ;02:58:06;1974
+13;18;Stein;Volker; ;GER; ;M;L1;5; ;02:58:50;1974
+14;170;Müller;Peter; ;GER; ;M;L1;6; ;02:59:37;1974
+15;127;Klinke;Heinz; ;GER; ;M;L2;6; ;03:04:42;1974
+16;17;Schettler;Karl Heinz; ;GER; ;M;L2;7; ;03:04:53;1974
+17;126;Kirsch;Dr. Karl; ;GER; ;M; ;0; ;03:05:07;1974
+18;67;Derkow;Horst; ;GER; ;M;L2;8; ;03:05:07;1974
+19;145;Lange;Jürgen; ;GER; ;M;L;4; ;03:08:28;1974
+20;43;Mass;Manfred; ;GER; ;M;L1;7; ;03:08:3;1974
+1;99;Bochröder;Ralf;OSC;GER;40;M;L1;1; ;02:47:08;1975
+2;286;Weiß;Dieter;TSV Siemst.;GER;37;M;L1;2; ;02:48:26;1975
+3;4;Brecht;Hermann;SCC;GER;21;M;L3;1; ;02:50:02;1975
+4;19;Papenfuß;Wolfgang;SCC;GER;39;M;L1;3; ;02:53:30;1975
+5;61;Gathmann;Dietmar;VFV Spand.;GER;52;M;L;1; ;02:54:26;1975
+6;24;Zettlitz;Horst;SCC;GER;45;M;L;2; ;02:54:44;1975
+7;290;Wells;Manfred;TV Vreden;GER;35;M;L2;1; ;02:56:13;1975
+8;48;Wächtler;Rohland;Solingen;GER;43;M;L1;4; ;02:58:11;1975
+9;26;Case;John;US-Army;USA;56;M;L;3; ;02:58:35;1975
+10;11;Heine;Michael;SCC;GER;47;M;L;4; ;02:58:55;1975
+11;140;Hallas;Günter;LG-Nord;GER;42;M;L1;5; ;02:59:56;1975
+12;274;Tognetti;Alberto; ;GER;34;M;L2;2; ;03:00:47;1975
+13;13;Maaß;Manfred;SCC;GER;40;M;L1;6; ;03:02:46;1975
+14;211;Müncheberg;Wolfgang; ;GER;31;M;L2;3; ;03:03:40;1975
+15;5;Derkow;Horst;SCC;GER;32;M;L2;4; ;03:04:08;1975
+16;63;Hoppe;Hans-Jürgen;VFV Spand.;GER;44;M;L;5; ;03:05:05;1975
+17;29;Miller;Charles;US-Army;USA;33;M;L2;5; ;03:05:36;1975
+18;7;Herzog;Horst;SCC;GER;32;M;L2;6; ;03:08:43;1975
+19;240;Reitinger;Kurt;Treisberg;GER;24;M;L3;2; ;03:08:55;1975
+20;9;Koch;Jürgen;SCC;GER;40;M;L1;7; ;03:09:0;1975
+1; ;Sensburg;I.;NSF;GER; ;M;BM;1; ;02:23:08;1976
+2; ;Weber;W.;SCC;GER; ;M;BM;2; ;02:24:59;1976
+3; ;Weiß;M.;NSF;GER; ;M;BM;3; ;02:26:27;1976
+4; ;Rathgen;K.;NSF;GER; ;M;BM;4; ;02:28:22;1976
+5; ;Rose;J.;NSF;GER; ;M;BM;5; ;02:32:17;1976
+6; ;Bieler;P.;NSF;GER; ;M;BM;6; ;02:33:38;1976
+7; ;Tschetschel;M.;ESV B.;GER; ;M;H;1; ;02:36:12;1976
+8; ;Hallas;G.;LG Nord;GER; ;M;BM;7; ;02:38:44;1976
+9; ;Schwarz;P.;LAZ Hamm;GER; ;M;L;1; ;02:40:44;1976
+10; ;Hopp;B.;SCC;GER; ;M;BM;8; ;02:42:28;1976
+11; ;Lindner;W.;SCC;GER; ;M;H;2; ;02:42:35;1976
+12; ;Ramm;H.W.;SCC;GER; ;M;BM;9; ;02:43:00;1976
+13; ;Mudrik;W.;SCC;GER; ;M;BM;10; ;02:44:13;1976
+14; ;Schaar;F.; ;GER; ;M;H;3; ;02:46:08;1976
+15; ;Swara;B.;LG Nord;GER; ;M;BM;11; ;02:46:31;1976
+16; ;Weiß;D.;SC Siem.;GER; ;M;H;4; ;02:46:38;1976
+17; ;Arnauto;A.; ;GER; ;M;A;1; ;02:48:18;1976
+18; ;Pietrog;R.;LAZ Hamm;GER; ;M;L;2; ;02:49:07;1976
+19; ;Baudisch;H.; ;GER; ;M;B;1; ;02:49:18;1976
+20; ;Patrick;C.; ;GER; ;M;H;5; ;02:49:5;1976
+1; ;Wilson;N.; ;GBR; ;M;H;1; ;02:16:20;1977
+2; ;Hurd;M.; ;GBR; ;M;H;2; ;02:17:02;1977
+3; ;Eddington;G.; ;GBR; ;M;H;3; ;02:19:10;1977
+4; ;Fleming;Tom; ;GBR; ;M;H;4; ;02:20:27;1977
+5; ;Nicolson;D.; ;GBR; ;M;H;5; ;02:30:34;1977
+6; ;Rust;N.; ;GBR; ;M;H;6; ;02:31:29;1977
+7; ;Soch;Walter;SG Misburg;GER; ;M;A;1; ;02:32:29;1977
+8; ;Wright;Peter; ;GBR; ;M;H;7; ;02:33:39;1977
+9; ;Law;A.; ;GBR; ;M;H;8; ;02:34:01;1977
+10; ;Migshell;B.; ;GBR; ;M;H;9; ;02:34:58;1977
+11; ;Laker;A.; ;GBR; ;M;H;10; ;02:36:35;1977
+12; ;Ramm;Hans-Werner;SCC Berlin;GER; ;M;A;2; ;02:37:03;1977
+13; ;Dunsch;Wolfgang;VSG Helios;GER; ;M;H;11; ;02:39:12;1977
+14; ;Howell;F.; ;GER; ;M;H;12; ;02:40:19;1977
+15; ;Thomas;T.; ;GER; ;M;H;13; ;02:40:40;1977
+16; ;Marshall;D.; ;GBR; ;M;H;14; ;02:40:00;1977
+17; ;Göte;Iwarson;Tibro AIK;SWE; ;M;A;3; ;02:41:49;1977
+18; ;Clayton;F.; ;GBR; ;M;H;15; ;02:43:36;1977
+19; ;Breuer;Rudolf;VSG Helios;GER; ;M;A;4; ;02:43:46;1977
+20; ;Matzke;Ralf;SCC;GER; ;M;H;16; ;02:44:2;1977
+1; ;Sensburg;Ingo;NSF;GER;49;M;BM;1; ;02:21:09;1979
+2; ;Jackisch;Wilfried;NSF;GER;51;M;BM;2; ;02:24:53;1979
+3; ;Scherbaum;Ronald;TS Bayreuth;GER;41;M;H;1; ;02:30:07;1979
+4; ;Weiß;Michael;NSF;GER;49;M;BM;3; ;02:30:19;1979
+5; ;Mudrik;Valentin;SCC;GER;46;M;BM;4; ;02:31:42;1979
+6; ;Macke;Pattrijk;Grantham&D.A.C.;GBR;55;M;H;2; ;02:32:24;1979
+7; ;Schröder;Wolfgang;NSF;GER;53;M;BM;5; ;02:34:15;1979
+8; ;Gathmann;Dietmar;VfV Spandau;GER;52;M;BM;6; ;02:35:08;1979
+9; ;Hodsman;Kevin;TuS 04 Leverk.;GER;55;M;H;3; ;02:37:56;1979
+10; ;Weber;Wolfram;SCC;GER;52;M;BM;7; ;02:39:38;1979
+11; ;Hayland;Paddy;R.A.F. Gatow;GER;51;M;H;4; ;02:41:08;1979
+12; ;Schultz;Bodo;MTV Wolfenbüt.;GER;34;M;A;1; ;02:41:24;1979
+13; ;Müncheberg;Wolfgang;SCC;GER;31;M;A;2; ;02:42:25;1979
+14; ;Hartwig;Peter;BSV 92;GER;42;M;BM;8; ;02:42:40;1979
+15; ;Kühnast;Jörg;BSV 92;GER;44;M;BM;9; ;02:43:18;1979
+16; ;Wynen;Jacobus;SCC;GER;49;M;BM;10; ;02:45:10;1979
+17; ;Sahl;Horst;SSV Lichtenr.;GER;32;M;A;3; ;02:46:24;1979
+18; ;Kayser;Joachim; ;GER;33;M;A;4; ;02:46:36;1979
+19; ;Haase;Uwe;VfL Hameln;GER;44;M;H;5; ;02:47:36;1979
+20; ;Skala;Hans-Peter;TuS Lintorf;GER;54;M;H;6; ;02:49:5;1979
+1;20;Ray;Ian; ;GBR; ;M;H; ; ;02:15:42;1981
+2;3470;Hurd;Mick; ;GBR; ;M;M35; ; ;02:17:44;1981
+3;18;Clarke;Dave; ;GBR; ;M;H; ; ;02:20:10;1981
+4;15;Dimick;John; ;USA; ;M;H; ; ;02:20:46;1981
+5;22;Umberg;Richard; ;CH; ;M;H; ; ;02:21:55;1981
+6;17;Robertshaw;John; ;GBR; ;M;H; ; ;02:23:07;1981
+7;32;Larsson;Bent; ;DK; ;M;M30; ; ;02:23:25;1981
+8;23;Rastello;Alessandro; ;ITA; ;M;H; ; ;02:24:02;1981
+9;1647;Alt;Peter;LG DJK ANO;GER; ;M;H; ; ;02:24:51;1981
+10;46;Bicourt;John; ;GBR; ;M;M35; ; ;02:25:13;1981
+11;44;Larseb;Thorbjoern; ;NOR; ;M;H; ; ;02:25:15;1981
+12;45;Rualquam;Jodmund; ;NOR; ;M;H; ; ;02:25:59;1981
+13;35;Morawski;Peter;ASV KÖLLN;GER; ;M;H; ; ;02:26:11;1981
+14;2;Sensburg;Ingo;LG SUED BLN;GER; ;M;H; ; ;02:27:01;1981
+15;2354;Jost;Andreas;LG FRANKFU;GER; ;M;M30; ; ;02:28:36;1981
+16;16;Maule;Ray; ;GBR; ;M;H; ; ;02:28:44;1981
+17;2293;Heine;Michael;SCC BERLIN;GER; ;M;M30; ; ;02:29:59;1981
+18;39;Weiss;Michael;SCC BERLIN;GER; ;M;M30; ; ;02:30:50;1981
+19;1042;Issakainen;Risto; ;FIN; ;M;H; ; ;02:31:59;1981
+20;3057;Jaedicke;Hagen;LAV RALA;GER; ;M;M35; ; ;02:32:3;1981
+1;1;Tibaduiza;Domingo; ;COL;50;M;M30;0; ;02:14:46;1982
+2;7;Weyel;Eberhard; ;GER;54;M;MH;0; ;02:14:49;1982
+3;13;Offord;John; ;GBR;47;M;M35;0; ;02:20:34;1982
+4;26;Misiewicz;Ryszard; ;POL;57;M;MH;0; ;02:20:40;1982
+5;11;McCarthy;Martin; ;GBR;57;M;MH;0; ;02:21:00;1982
+6;9;Sinclair;Robert; ;GBR;58;M;MH;0; ;02:22:34;1982
+7;12;Crowl;Michael; ;GBR;54;M;MH;0; ;02:24:18;1982
+8;20;Barber;Ken;RAF-Germany;GER;53;M;MH;0; ;02:25:06;1982
+9;16;Mattersburger;Ulrich;UNION Lienz;GER;54;M;MH;0; ;02:25:07;1982
+10;15;Jackisch;Wilfried;SCC Berlin;GER;51;M;M30;0; ;02:25:57;1982
+11;6;Krippner;Gerhard; ;GER;57;M;MH;0; ;02:27:16;1982
+12;19;Herbicht;Kurt;TS Coburg;GER;49;M;M30;0; ;02:27:42;1982
+13;1822;Herl;Roman;ASC Darmstadt;GER;59;M;MH;0; ;02:28:02;1982
+14;4575;Walter;Manfred;LG Staufen;GER;46;M;M35;0; ;02:28:43;1982
+15;22;Soeltoft;Karl-Age;Herlufsholm;GER;49;M;M30;0; ;02:28:48;1982
+16;1967;Petersen;Ralf;Herlufsholm;GER;55;M;MH;0; ;02:29:26;1982
+17;14;Frederiksson;Peter;Maelarhoejdens;GER;46;M;M35;0; ;02:28:58;1982
+18;2194;Meyer-Beer;Michael;Berliner SC;GER;57;M;MH;0; ;02:30:14;1982
+19;4233;Heine;Michael;SCC Berlin;GER;47;M;M35;0; ;02:30:47;1982
+20;21;Venus;William;1ADSR;GER;39;M;M40;0; ;02:31:0;1982
+1;1;Lismont;Karel;Belgien;BEL;49;M;M30;1; ;02:13:37;1983
+2;15;Ashworth;James;Great Britain;GBR;57;M;MH;1; ;02:14:01;1983
+3;20;Meier;Werner;Schweiz;SUI;49;M;M30;2; ;02:15:06;1983
+4;8;Horbberger;Franz;DLV;GER;52;M;M30;3; ;02:15:27;1983
+5;18;Sawicki;Wiktor;Polen;POL;55;M;MH;2; ;02:16:05;1983
+6;14;Kilsby;Jonathon;Great Britain;GBR;55;M;MH;3; ;02:17:31;1983
+7;13;Campbell;Paul;Great Britain;GBR;58;M;MH;4; ;02:18:52;1983
+8;2508;Dreyer;Helmut;VFL Wolsburg;GER;57;M;MH;5; ;02:21:13;1983
+9;10;Hoube;Clemens;DLV;GER;57;M;MH;6; ;02:21:27;1983
+10;3712;Denes;Istvan;ESV Germisch;GER;59;M;M30;4; ;02:21:31;1983
+11;22;Umberg;Richard;Schweiz;SUI;50;M;M30;5; ;02:21:55;1983
+12;17;Radkowski;Wojciech;Polen;POL;54;M;MH;7; ;02:22:08;1983
+13;19;Marczuk;Kazimierz;Polen;POL;54;M;MH;8; ;02:22:10;1983
+14;9;Bollweg;Norbert;DLV;GER;55;M;MH;9; ;02:22:18;1983
+15;27;Barr;Rolf;IF Start;SWE;50;M;M30;6; ;02:22:40;1983
+16;3316;Barker;John;Grimsby HAC;GBR;53;M;M30;7; ;02:22:50;1983
+17;35;Brackstone;Kieth;RAF Marathon Team;GBR;53;M;M30;8; ;02:22:56;1983
+18;1822;Philpot;Andrian;PSV Detmold;IRL;54;M;MH;10; ;02:23:10;1983
+19;29;Lambourne;Sam;Great Britain;GBR;48;M;M35;1; ;02:23:27;1983
+20;1963;Llunge;Ulf;Lav Hamburg Nord;GER;60;M;MH;11; ;02:23:4;1983
+1;60;Skovbjerg;John;Dänemark;DNK;56;M;MH;1; ;02:13:35;1984
+2;26;Krüger;Wolfgang;LBV Phönix Lübeck;GER;47;M;M35;1; ;02:13:43;1984
+3;65;Lorens;Pavel;Polen;POL;58;M;MH;2; ;02:14:53;1984
+4;1;Lismont;Karel;Belgien;BEL;49;M;M35;2; ;02:14:56;1984
+5;18;Sawiki;Wiktor;Polen;POL;55;M;MH;3; ;02:15:03;1984
+6;13;Clyne;Fraser;Great Britain;GBR;55;M;MH;4; ;02:15:21;1984
+7;66;Sajkowski;Andrzej;Polen;POL;52;M;M30;1; ;02:15:29;1984
+8;6;Lupa;Henryk;Polen;POL;56;M;MH;5; ;02:15:44;1984
+9;10;Da Silva;Carlos Tavares;Portugal;PRT;53;M;M30;2; ;02:15:45;1984
+10;22;Mauws;Bob;Belgien;BEL;51;M;M30;3; ;02:16:11;1984
+11;61;Borka;Gyula;Ungartn;HUN;55;M;MH;6; ;02:16:18;1984
+12;9;Hornberger;Franz;Post SV Weilheim;GER;52;M;M30;4; ;02:16:34;1984
+13;24;Herrmanns;Peter;Belgien;BEL;60;M;MH;7; ;02:17:45;1984
+14;3890;Herridge;Edward EJH;Aldershot+Farnham;GBR;61;M;MH;8; ;02:17:53;1984
+15;57;Deville;Jean-Pierre;Belgien;BEL;58;M;MH;9; ;02:18:05;1984
+16;30;Van Essen;Gerrit;Niederlande;HOL;48;M;M35;3; ;02:18:09;1984
+17;31;Vollenbroek;Richard;Niederlande;HOL;57;M;MH;10; ;02:18:09;1984
+18;19;Poniatowski;Zenon;Polen;POL;54;M;M30;5; ;02:18:10;1984
+19;17;Offord;John R;Great Britain;GBR;47;M;M35;4; ;02:18:14;1984
+20;46;Zatta;Roberto;Italien;ITA;59;M;MH;11; ;02:18:3;1984
+1;4;Ashworth;James M;Cullingworth BD13 5D;GBR;1957;M;MH;1; ;02:11:43;1985
+2;28;Albahn;Henrik;Köge;DNK;1960;M;MH;2; ;02:13:47;1985
+3;15;de Blander;Marc;Vlierzele Sportief;BEL;1959;M;MH;3; ;02:13:59;1985
+4;14;Borka;Gylua;Pomz;HUN;1959;M;MH;4; ;02:14:02;1985
+5;3;Gloden;Justin;C.A.Spora Luxembourg;LUX;1953;M;M30;1; ;02:14:28;1985
+6;61;Pierzynka;Zbigniew;Visla Krakow;POL;1951;M;M30;2; ;02:14:41;1985
+7;1;Skovbjerg;John;Aarhus C;DNK;1956;M;MH;5; ;02:14:50;1985
+8;8;Anton;Eleuterio;Madrid;ESP;1958;M;M35;1; ;02:15:39;1985
+9;19;Sliwinski;Bodgan;Olimpia Poznan;POL;1957;M;MH;6; ;02:15:44;1985
+10;24;Ziubrak;Josef;Olimpia Poznan;POL;1951;M;M30;3; ;02:16:08;1985
+11;25;Zegers;Villem;Apeldoorn;HOL;1953;M;M30;4; ;02:16:35;1985
+12;17;Rottiers;Lucien; ;BEL;1948;M;M35;2; ;02:16:56;1985
+13;5;Beauchamp;Ian;Ranklach Harriers;GBR;1954;M;M30;5; ;02:17:22;1985
+14;A001;Sensburg;Ingo;LG Süd Berlin;GER;1949;M;M35;3; ;02:17:33;1985
+15;54;Perske;Josef;TG Viktoria Augsburg;USA;1956;M;MH;7; ;02:17:52;1985
+16;2;Helme;Gerald;St. Helews AC;GBR;1957;M;MH;8; ;02:17:57;1985
+17;64;Mora;Victor;Bogota, Colombia;COL;1944;M;M40;1; ;02:18:12;1985
+18;32;Hjorth;Niels Kim;Skive A M;DNK;1959;M;MH;9; ;02:18:25;1985
+19;6;Umberg;Richard;Herrenschwanden;SUI;1950;M;M35;4; ;02:18:37;1985
+20;26;Lok;Klaas;Bilthoven;HOL;1955;M;M30;6; ;02:18:3;1985
+1;45;Psujek;Boguslaw;Klub Olesniczanka;POL;0;M;MH;1; ;02:11:00;1986
+2;1;Jorgensen;Henrik;Dänemark;DNK;61;M;MH;2; ;02:11:00;1986
+3;2;Kamau;Gabriel;UTEP/Converse;KEN;58;M;MH;3; ;02:12:00;1986
+4;80;Moreira;Delfim;Portugal;PRT;55;M;M30;1; ;02:12:00;1986
+5;8;Pierzynka;Zbigniew;Polen;POL;0;M;MH;4; ;02:13:00;1986
+6;15;Lorens;Pawel;Gornik Brzeszcze;POL;58;M;MH;5; ;02:13:00;1986
+7;40;Eickmann;Thomas;PSV Grün-Weiß Kassel;GER;0;M;MH;6; ;02:13:00;1986
+8;65;Hellebuyk;Eddy;LG Troisdorf;BEL;61;M;MH;7; ;02:13:00;1986
+9;18;Roaldkvam;Oddmund;Norwegen;NOR;58;M;MH;8; ;02:13:00;1986
+10;81;Mills;Kingston;Irland;IRL;55;M;M30;2; ;02:13:00;1986
+11;69;Machalek;Jozef;Schweden;SWE;48;M;M35;1; ;02:13:00;1986
+12;10;Skovbyerg;John;Dänemark;DNK;56;M;M30;3; ;02:14:00;1986
+13;7;Misiewicz;Ryszard;KS Zawisza Bydgoszcz;POL;57;M;MH;9; ;02:14:00;1986
+14;68;Hogberg;Goran;Schweden;SWE;49;M;M35;2; ;02:15:00;1986
+15;32;Poniatowski;Zenon;Wawel Krakow;POL;54;M;M30;4; ;02:15:00;1986
+16;93;Terzer;Carlo;Italien;ITA;55;M;M30;5; ;02:15:00;1986
+17;70;Haftstoem;Martin;Schweden;SWE;57;M;MH;10; ;02:16:00;1986
+18;82;Agten;Ronny;Hechtel;BEL;59;M;MH;11; ;02:16:00;1986
+19;27;Nenov;Stanimir;Bulgarien;BUL;57;M;MH;12; ;02:16:00;1986
+20;6948;Sivertsen;Bjorn H.;KIF;DNK;57;M;MH;13; ;02:16:0;1986
+1;4;Nyambui;Suleiman;Tansania;TAN;52;M;M35;1; ;02:11:00;1987
+2;71;Marques;Rafael;Portugal;PRT;57;M;M30;1; ;02:13:00;1987
+3;87;Mashishanga;Japhat;Tansania;TAN;60;M;MH;1; ;02:13:00;1987
+4;21;Vermeule;John;Niderlande;HOL;61;M;MH;2; ;02:13:00;1987
+5;27;Lyrenmann;Peter;Schweiz;SUI;57;M;M30;2; ;02:13:00;1987
+6;18;Weyts;Jean;Marthon Club Menden;BEL;60;M;MH;3; ;02:13:00;1987
+7;11;Rutinginga;Mahamed;Tansania;TAN;59;M;MH;4; ;02:14:00;1987
+8;120;Wollenbroek;Richard;Niderlande;HOL;57;M;M30;3; ;02:14:00;1987
+9;16;Gruening;Martin;LAV Bayer Uerdingen;GER;62;M;MH;5; ;02:14:00;1987
+10;68;Johnsen;Keld;Skive;DNK;50;M;M35;2; ;02:14:00;1987
+11;22;Dall;Peter;Daenemark;DNK;61;M;MH;6; ;02:14:00;1987
+12;78;Leghnider;Mustapha;TOAC;MAR;60;M;MH;7; ;02:14:00;1987
+13;6;Lawicki;Tadeusz;Polen;POL;56;M;M30;4; ;02:14:00;1987
+14;102;Kaniak;Andrzej;BKS Bydgoszcz;POL;59;M;MH;8; ;02:15:00;1987
+15;70;Moreira;Delfim;Portugal;PRT;55;M;M30;5; ;02:15:00;1987
+16;10;MC Karthy;Martin;Oxford City AC;GBR;57;M;M30;6; ;02:15:00;1987
+17;46;Mitka;Josef;KS Gornik Brzeszcze;POL;55;M;M30;7; ;02:15:00;1987
+18;41;Pattan;Ian;Kent;GBR;62;M;MH;9; ;02:15:00;1987
+19;49;Hellmark;Soeren;Schweden;SWE;58;M;MH;10; ;02:15:00;1987
+20;8;Hellebuyk;Eddy;ASV St.Augustin;BEL;61;M;MH;11; ;02:16:0;1987
+1;1;Nyambui;Suleiman;Tansania;TAN;52;M;M35;1; ;02:11:00;1988
+2;13;Andriopoulos;Spyros;Griechenland;GRE;62;M;MH;1; ;02:12:00;1988
+3;14;Mekonen;Tulu;Ethiopien;ETH;68;M;MH;2; ;02:12:00;1988
+4;10;Psujek;Boguslaw;KS Olesniczanka;POL;56;M;M30;1; ;02:12:00;1988
+5;4;Tesfaye;Dadi;Ethiopien;ETH;69;M;MJ;1; ;02:12:00;1988
+6;6;Rozum;Sergej;URS;URS;62;M;MH;3; ;02:13:00;1988
+7;18;Stuart;Kenny;Grossbritannien;GBR;57;M;M30;2; ;02:13:00;1988
+8;30;Boyes;John;Grossbritannien;GBR;58;M;M30;3; ;02:14:00;1988
+9;25;Dobler;Konrad;VFL Waldkraiburg;GER;57;M;M30;4; ;02:14:00;1988
+10;94;Constant;Michel;ES Argues;FRA;56;M;M30;5; ;02:15:00;1988
+11;33;Weyts;Jean;Marathon Club Menden;BEL;60;M;MH;4; ;02:15:00;1988
+12;7;Hartmann;Gerhard;Österreich;AUT;55;M;M30;6; ;02:15:00;1988
+13;20;Furmanek;Wieslaw;Polen;POL;59;M;MH;5; ;02:15:00;1988
+14;95;Chala;Urgesa;Ethiopien;ETH;57;M;M30;7; ;02:15:00;1988
+15;27;Grommisch;Werner;LAV Erdgas Essen;GER;56;M;M30;8; ;02:15:00;1988
+16;78;Zdunek;Stanislaw;Polen;POL;56;M;M30;9; ;02:16:00;1988
+17;79;Schmuck;Helmut;ATSV Salzburg;AUT;63;M;MH;6; ;02:16:00;1988
+18;100;Masong;Agapius;Tansania;TAN;62;M;MH;7; ;02:16:00;1988
+19;45;Hellmark;Soeren;Schweden;SWE;58;M;M30;10; ;02:16:00;1988
+20;110;Notz;Dieter;TSV Dettingen;GER;55;M;M30;11; ;02:16:0;1988
+1;10;Shahanga;Alfredo;Tanzania;TAN;65;M;MH;1; ;02:10:00;1989
+2;3;Nedi;Dereje;Ethiopien;ETH;56;M;M30;1; ;02:10:00;1989
+3;2;Andriopoulos;Spyros;Griechenland;GRE;62;M;MH;2; ;02:12:00;1989
+4;4;Tabak;Nikolai;RSHM Ukraina;URS;50;M;M35;1; ;02:13:00;1989
+5;6;Rozum;Sergej;RSHM Ukraina;URS;62;M;MH;3; ;02:13:00;1989
+6;84;Huruk;Jan;GRYF;POL;60;M;MH;4; ;02:13:00;1989
+7;76;Dolega;Karol;Olesniczanka;POL;63;M;MH;5; ;02:13:00;1989
+8;13;Silva;Osmiro;8542 Roth;BRA;61;M;MH;6; ;02:13:00;1989
+9;5;Braslavski;Igor;RSHM Ukraina;URS;60;M;MH;7; ;02:13:00;1989
+10;7;Böltz;Daniel;Evatt,2617 Canbeerra;SUI;62;M;MH;8; ;02:14:00;1989
+11;72;Lasecki;Kasimierz;PL-Warszawa;POL;58;M;M30;2; ;02:16:00;1989
+12;109;Tesselar;Dirk;Hollandia Hoorn;HOL;57;M;M30;3; ;02:16:00;1989
+13;53;Gloden;Justin;L-7592 Beringen;LUX;53;M;M35;2; ;02:16:00;1989
+14;80;Kaczmarski;Dariusz;AZS-AWF Krakow;POL;62;M;MH;9; ;02:16:00;1989
+15;85;Palczynski;Wieslaw;Zawisza;POL;63;M;MH;10; ;02:16:00;1989
+16;90;Wieckowski;Wojciech;PL-0941 Miszewo;POL;61;M;MH;11; ;02:16:00;1989
+17;73;Malkowski;Pawel;PL-85-677 Bydgoszcz;POL;60;M;MH;12; ;02:16:00;1989
+18;47;Nilsson;Hans;Hargs BK Runners;SWE;59;M;M30;4; ;02:16:00;1989
+19;28;Ikov;Jan;2000 kopenhagen F.;DNK;61;M;MH;13; ;02:17:00;1989
+20;52;Gschwend;Peter;TV Untersrass;SUI;50;M;M35;3; ;02:17:0;1989
+1;4;Moneghetti;Steve;Australien;AUS;62;M;MH;1; ;02:08:00;1990
+2;2;Shahanga;Gidamis;Tansania;TAN;61;M;MH;2; ;02:08:00;1990
+3;7;Peter;Jörg; ;GER;55;M;M35;1; ;02:09:00;1990
+4;33;Freigang;Stephan;SC Cottbus;GER;67;M;MH;3; ;02:09:00;1990
+5;44;Hänninen;Harri;Pakilan Visa;FIN;63;M;MH;4; ;02:12:00;1990
+6;16;Nishimoto;Kazuya;Kyushu Sanuo;JPN;67;M;MH;5; ;02:12:00;1990
+7;15;Steffny;Herbert;Post Jahn Freiburg;GER;53;M;M35;2; ;02:12:00;1990
+8;8;Shintaku;Hisatishi;Japan;JPN;57;M;M30;1; ;02:12:00;1990
+9;13;Heilmann;Michael;LG Motor Teltow;GER;62;M;MH;6; ;02:13:00;1990
+10;1;Shahanga;Alfredo;Tansania;TAN;65;M;MH;7; ;02:13:00;1990
+11;107;Gurny;Slawomir;Zawisza;POL;69;M;MH;8; ;02:13:00;1990
+12;3;Nyambui;Suleiman;Tansania;TAN;52;M;M35;3; ;02:13:00;1990
+13;18;Braslavski;Igor;Dynamo Odessa;URS;59;M;M30;2; ;02:13:00;1990
+14;20;Dolega;Karal;Olasnicanka;POL;63;M;MH;9; ;02:14:00;1990
+15;25;Kazanecki;Jozef;Wawel Krakow;POL;65;M;MH;10; ;02:14:00;1990
+16;23;Tarasiuk;Pawel;PZLA;POL;59;M;M30;3; ;02:14:00;1990
+17;34;Masong;Agapius;Tansania;TAN;62;M;MH;11; ;02:14:00;1990
+18;57;Tesselaar;Dick;Niederlande;HOL;57;M;M30;4; ;02:14:00;1990
+19;51;Hahijuchi;Yoshito;Asahikasei;JPN;63;M;MH;12; ;02:15:00;1990
+20;14;Clarke;David;GB-Surrey Kt2 6JI;GBR;58;M;M30;5; ;02:15:0;1990
+1;15;Brace;Steve;Bridgend Athleticel;GBR;61;M;M30;1; ;02:10:00;1991
+2;4;Plaatjes;Mark;80303 Boulder CO.US;USA;61;M;M30;2; ;02:11:00;1991
+3;33;Gurny;Slawomir;Zawisza;POL;64;M;MH;1; ;02:11:00;1991
+4;21;Shagin;Rustam;SU-Ulianovsk;URS;63;M;MH;2; ;02:11:00;1991
+5;31;Perszke;Wieslaw;Zawisza;POL;60;M;M30;3; ;02:12:00;1991
+6;6;Martin;Ken;NIKE;USA;58;M;M30;4; ;02:12:00;1991
+7;14;Ronan;Andy;Irland;IRL;63;M;MH;3; ;02:12:00;1991
+8;24;Vlaanderen;V. Bert;UAV Hallas Utrecht;HOL;64;M;MH;4; ;02:12:00;1991
+9;144;Sumawe; ;Nike International;TAN;68;M;MH;5; ;02:12:00;1991
+10;66;Beblo;Leszek;PL-56400 Olesnica;POL;66;M;MH;6; ;02:13:00;1991
+11;120;Wightman;Geoffrey;Dartford Harriers;GBR;60;M;M30;5; ;02:13:00;1991
+12;7;Niemczak;Anton;Polen;POL;55;M;M35;1; ;02:13:00;1991
+13;29;Garela;Rodrigo;Rodper Madrid;ESP;66;M;MH;7; ;02:13:00;1991
+14;117;Kaczmarski;Dariusz;PL-31-571 Urakow;POL;62;M;MH;8; ;02:14:00;1991
+15;49;Erixon;Mats;Milndals;SWE;58;M;M30;6; ;02:14:00;1991
+16;17;Murakami;Takashi;Japan;JPN;63;M;MH;9; ;02:15:00;1991
+17;37;Schmuck;Helmut;LLC Wein;AUT;63;M;MH;10; ;02:15:00;1991
+18;34;Tarasiuk;Pawel;Pol Tech;POL;59;M;M30;7; ;02:15:00;1991
+19;14;Naess;Terje;N-0672 Oslo 6;NOR;61;M;M30;8; ;02:15:00;1991
+20;108;Nawrocki;Dariusz;TSV Wittenau Berlin;POL;64;M;MH;11; ;02:15:0;1991
+1;7;Tsebe;David;Südafrika;RSA;66;M;MH;1; ;02:08:07;1992
+2;5;Matias;Manuel;Maratona C Portugal;PRT;62;M;M30;1; ;02:08:38;1992
+3;75;Karori;Simon;Kenia;KEN;59;M;M30;2; ;02:11:50;1992
+4;11;Hänninen;Harii;Finnland;FIN;63;M;MH;2; ;02:13:06;1992
+5;6;Moghali;Thabiso;Südafrika;RSA;63;M;MH;3; ;02:13:19;1992
+6;12;Santana;Jose;Brasilien;BRA;64;M;MH;4; ;02:13:20;1992
+7;9513;Smolla;Ralf;RSV Hannover;GER;64;M;MH;2632; ;04:28:07;1992
+8;72;Patricio;Carlos;SC Portugal;PRT;64;M;MH;5; ;02:13:29;1992
+9;3;Gurny;Slawomir;Zawisza;POL;64;M;MH;6; ;02:13:39;1992
+10;23;Mccluskey;Kevin;Copeland AC;GBR;63;M;MH;7; ;02:14:04;1992
+11;70;Nyangincha;Sammy;Kenia;KEN;62;M;M30;3; ;02:14:09;1992
+12;19;Tabak;Nikolai;Victoria;UKR;57;M;M35;1; ;02:14:33;1992
+13;9;Sumawe;Julius;Tansania;TAN;65;M;MH;8; ;02:14:39;1992
+14;16;Kotov;Vladimir; ;BLR;58;M;M30;4; ;02:14:52;1992
+15;28;Pipa;Petr;Olymp Prague;TCH;64;M;MH;9; ;02:14:58;1992
+16;4;Shagiev;Rustam;GUS;GUS;63;M;MH;10; ;02:15:16;1992
+17;37;Buzza;Dave; ;GBR;62;M;M30;5; ;02:15:41;1992
+18;62;Eickmann;Thomas;ASV St.Augustin;GER;62;M;M30;6; ;02:15:51;1992
+19;42;Tafa;Tesfaye;ETH Athletics Fed.;ETH;65;M;MH;11; ;02:16:01;1992
+20;10;Naali;Simon Robert;CCP MoshiKilimanjaro;TAN;66;M;MH;12; ;02:16:35;1992
+1;5;Yawa;Xolile;Südafrika;RSA;62;M;M30;1; ;02:10:57;1993
+2;12;Dacha;Dris;Marokko;MAR;62;M;M30;2; ;02:11:43;1993
+3;1;Tsebe;David;Südafreika;RSA;66;M;MH;1; ;02:12:07;1993
+4;7;Shahanga;Alfredo;Tansania;TAN;65;M;MH;2; ;02:12:24;1993
+5;4;David;Karel;Maraton Club Ostrava;TCH;64;M;MH;3; ;02:12:29;1993
+6;126;Krzyscin;Andrzej;Polen;POL;67;M;MH;4; ;02:13:14;1993
+7;70;Plawgo;Miroslaw;Olesniczanka;POL;70;M;MH;5; ;02:13:47;1993
+8;71;Chimusasa;Tendai;Zimbabwe;ZIM;71;M;MH;6; ;02:14:23;1993
+9;6;Shahanga;Gidamis;Tansania;TAN;57;M;M35;1; ;02:14:54;1993
+10;53;Tshabalala;Isaac;Sasol Maraton Club;RSA;60;M;M30;3; ;02:15:01;1993
+11;199;oumou;El-Hadi; ;MAR;59 V;M;M30;4; ;02:15:40;1993
+12;8;Rocha;Joseildo;Brasilien;BRA;65;M;MH;7; ;02:16:24;1993
+13;21;Nürnberger;Dirk;LAC Quelle Fürth;GER;70;M;MH;8; ;02:16:41;1993
+14;164;Szalkai;Anders;Schweden;SWE; ;M;MH;9; ;02:16:51;1993
+15;73;Strege;Martin;Polizei Hassen;GER;66;M;MH;10; ;02:16:55;1993
+16;167;Novoselov;Viktor;Ukraina;UKR;64;M;MH;11; ;02:17:08;1993
+17;145;Whitehead;Peter;Großbritanian;GBR;64;M;MH;12; ;02:17:19;1993
+18;76;Rainio;Juudo;Muuramen Yritys;FIN;69;M;MH;13; ;02:17:56;1993
+19;130;Rono;Richard;Kenia;KEN; ;M;MH;14; ;02:18:09;1993
+20;25;Herbstrith;Volmir;Diet Coke IPA Park;BRA;65;M;MH;15; ;02:18:5;1993
+1; ;Pinto;A.; ;PRT;0;M; ;0;00:00:00;02:08:31;1994
+2; ;Nyangincha;S.; ;KEN;0;M; ;0;00:00:00;02:08:50;1994
+3; ;Serrano;Sachez; ;ESP;0;M; ;0;00:00:00;02:09:13;1994
+4; ;Aguta;L.; ;KEN;0;M; ;0;00:00:00;02:10:41;1994
+5; ;Vlaanderen;B.; ;HOL;0;M; ;0;00:00:00;02:10:49;1994
+6; ;Kipngok;J.; ;KEN;0;M; ;0;00:00:00;02:12:12;1994
+7; ;Rutto;G.; ;KEN;0;M; ;0;00:00:00;02:12:36;1994
+8; ;Riberiro;J.; ;PRT;0;M; ;0;00:00:00;02:12:52;1994
+9; ;Maritim;S.; ;KEN;0;M; ;0;00:00:00;02:12:59;1994
+10; ;Plawgo;M.; ;POL;0;M; ;0;00:00:00;02:13:05;1994
+11; ;Sarafenuk;P.; ;UKR;0;M; ;0;00:00:00;02:13:21;1994
+12; ;Tummo;T.; ;ETH;0;M; ;0;00:00:00;02:13:49;1994
+13; ;Turbe;B.; ;ETH;0;M; ;0;00:00:00;02:14:11;1994
+14; ;Naali;F.; ;TAN;0;M; ;0;00:00:00;02:14:26;1994
+15; ;Wachenbrunner;R.; ;GER;0;M; ;0;00:00:00;02:14:38;1994
+16; ;Hänninen;H.; ;FIN;0;M; ;0;00:00:00;02:14:50;1994
+17; ;Nash;R.; ;GBR;0;M; ;0;00:00:00;02:14:52;1994
+18; ;Dittmann;S.; ;GER;0;M; ;0;00:00:00;02:14:53;1994
+19; ;Krzyscin;A.; ;POL;0;M; ;0;00:00:00;02:15:44;1994
+20; ;Davies-Hale;P.; ;GBR;0;M; ;0;00:00:00;02:16:4;1994
+1; ;Lelei;S.;Kenia;GER;0;M;M30;0;00:00:00;02:07:02;1995
+2; ;Rousseau;V.;Belgien;BEL;0;M;M30;0;00:00:00;02:07:19;1995
+3; ;Pinto;A.;Portugal;PRT;0;M;MH;0;00:00:00;02:08:56;1995
+4; ;Nyangincha;S.;Kenia;KEN;0;M;M30;0;00:00:00;02:09:35;1995
+5; ;Rutto;G.;Kenia;KEN;0;M;M30;0;00:00:00;02:11:11;1995
+6; ;Yawa;X.;Südafrika;RSA;0;M;M30;0;00:00:00;02:11:56;1995
+7; ;Milesi;D.;Italien;ITA;0;M;M30;0;00:00:00;02:11:57;1995
+8; ;Leger;B.;Frankreich;FRA;0;M;MH;0;00:00:00;02:12:15;1995
+9; ;Lima;V.;Brasilien;BRA;0;M;MH;0;00:00:00;02:13:47;1995
+10; ;Patricio;C.;Portugal;PRT;0;M;M30;0;00:00:00;02:15:27;1995
+11; ;Foster;B.;GBR;GBR;0;M;M35;0;00:00:00;02:15:49;1995
+12; ;Fernandes;M.;Portugal;PRT;0;M;MH;0;00:00:00;02:15:52;1995
+13; ;Jillo;D.;Äthiopien;ETH;0;M;MH;0;00:00:00;02:15:58;1995
+14; ;Spence;S.;USA;USA;0;M;M30;0;00:00:00;02:16:01;1995
+15; ;Koskei;K.;Kenia;KEN;0;M;M40;0;00:00:00;02:17:57;1995
+16; ;Freigang;S.;LC Cottbus;GER;0;M;MH;0;00:00:00;02:18:27;1995
+17; ;Lawson;J.;USA;USA;0;M;MH;0;00:00:00;02:18:41;1995
+18; ;Czarnofski;U.;LC Cottbus;GER;0;M;M30;0;00:00:00;02:18:44;1995
+19; ;Honsdorf;U.;Rot Weiß Koblenz;GER;0;M;M30;0;00:00:00;02:18:50;1995
+20; ;Szanowicz;A.;Polen;POL;0;M;MH;0;00:00:00;02:19:2;1995
+1; ;Anton;A.;Spanien;ESP;ESP;M;M30;1; ;02:09:15;1996
+2; ;Naali;F;Tansania;TAN; ;M;MH;1; ;02:09:33;1996
+3; ;Lelei;S.;Kenia;KEN; ;M;M30;2; ;02:09:49;1996
+4; ;Rutto;G.;Kenia;KEN; ;M;M30;3; ;02:10:01;1996
+5; ;Ndiveni;M.;Südafrika;RSA; ;M;M30;4; ;02:10:18;1996
+6; ;Maritim;S.;Kenia;KEN; ;M;M30;5; ;02:11:19;1996
+7; ;Yego;P.;Kenia;KEN; ;M;MH;2; ;02:11:22;1996
+8; ;Silva;O.;Brasilien;BRA; ;M;M35;1; ;02:11:59;1996
+9; ;Remond;P.;Frankreich;FRA; ;M;M30;6; ;02:11:59;1996
+10; ;Fialho;E.;Brasilien;BRA; ;M;MH;3; ;02:13:01;1996
+11; ;Osaki;S.;Japan;JPN; ;M;M30;7; ;02:13:35;1996
+12; ;Yayeh;A.Djibouti; ;KEN; ;M;MH4; ; ;02:13:45;1996
+13; ;Ito;H.;Japan;JPN; ;M;MH5; ; ;02:13:55;1996
+14; ;Santos;Ramos.;Brasilien;BRA; ;M;M30;8; ;02:14:33;1996
+15; ;Billen;N.;Äthiopien;ETH; ;M;MH;6; ;02:14:48;1996
+16; ;Temane;M.;Südafrika;RSA; ;M;M35;2; ;02:15:20;1996
+17; ;Kasprzyk;J.;Polen;POL; ;M;MH;7; ;02:15:38;1996
+18; ;Golebiewski;M.;Polen;POL; ;M;M30;9; ;02:15:40;1996
+19; ;Katsube;K.;Japan;JPN; ;M;MH;8; ;02:15:55;1996
+20; ;Dittmann;S.;LC Solbad Ravensberg;GER; ;M;MH;9; ;02:16:0;1996
+1; ;Lagat;Elijah;Kenia;KEN; ; ;M30;1; ;02:07:41;1997
+2; ;Kimaiyo;Eric;Kenia;KEN; ; ;MH;1; ;02:07:43;1997
+3; ;Lelei;Sammy;Kenia;KEN; ; ;M30;2; ;02:08:00;1997
+4; ;Kipngok;Jackson;Kenia;KEN; ; ;M30;3; ;02:08:36;1997
+5; ;Costa;Rolando;Brasilien;BRA; ; ;MH;2; ;02:09:07;1997
+6; ;Kabiga;Jackson;Kenia;KEN; ; ;HH;3; ;02:09:15;1997
+7; ;Khulu;Andries;Südafrika;RSA; ; ;MH;4; ;02:09:41;1997
+8; ;Serrokh;Abdeslam;Marokko;MAR; ; ;MH;5; ;02:09:46;1997
+9; ;Ramos;Andre L.;Brasilien;BRA; ; ;MH;6; ;02:09:50;1997
+10; ;Sambu;Andrew;Tansania;TAN; ; ;MH;7; ;02:10:17;1997
+11; ;Creighton;Shaun;Australien;AUS; ; ;M30;4; ;02:10:22;1997
+12; ;Suzuki;Kenichi;Japan;JPN; ; ;M30;5; ;02:10:47;1997
+13; ;Silva;Luiz C. da;Brasilien;BRA; ; ;MH;8; ;02:11:01;1997
+14; ;Ndungu;Stephen;Kenia;KEN; ; ;M30;6; ;02:11:16;1997
+15; ;Garcia;Diego;Spanien;ESP; ; ;M35;1; ;02:11:26;1997
+16; ;Hänninen;Harri;Finnland;FIN; ; ;M30;7; ;02:12:15;1997
+17; ;Nkodina;Nixon;Südafrika;RSA; ; ;MH;9; ;02:13:40;1997
+18; ;Kapinski;Slawomir;Polen;POL; ; ;M30;8; ;02:13:53;1997
+19; ;Glinka;Waldemar;Polen;POL; ; ;MH;10; ;02:14:19;1997
+20; ;Dacha;Driss;Marokko;MAR; ; ;M35;2; ;02:14:3;1997
+1; ;Da Costa;Ronaldo;Brasilien;BRA; ;M;MH;1; ;02:06:05;1998
+2; ;Kiprono;Josephat;Kenia;KEN; ;M;MH;2; ;02:07:21;1998
+3; ;Kandie;Samson;Kenia;KEN; ;M;MH;3; ;02:09:11;1998
+4; ;Chebutich;Ruben;Kenia;KEN; ;M;MH;4; ;02:10:39;1998
+5; ;Tumo;Turbo;Äthiopien;ETH; ;M;MH;5; ;02:11:01;1998
+6; ;Guerra;Paulo;Portugal;PRT; ;M;MH;6; ;02:11:02;1998
+7; ;Garcia;Dieqo;Spanien;ESP; ;M;M35;1; ;02:11:04;1998
+8; ;Mekonnen;Abebe;Äthiopien;ETH; ;M;M30;1;0 ;2:12:13;1998
+9; ;Khulu;Andries;Südafrika;RSA; ;M;MH;7; ;02:12:36;1998
+10; ;Strege;Martin;SV Großenrottern;GER; ;M;M30;2; ;02:12:41;1998
+11; ;Kejzar;Roman;Slovenien;SVN; ;M;M30;3; ;02:13:24;1998
+12; ;Franke;Stephane;SCC Berlin;GER; ;M;M30;4; ;02:13:59;1998
+13; ;Vasco;Victor;Portugal;PRT; ;M;MH;8; ;02:14:52;1998
+14; ;Poblocki;Piotr;Polen;POL; ;M;M30;5; ;02:17:55;1998
+15; ;Wodge;Zweda;Israel;ISR; ;M;MH;9; ;02:18:34;1998
+16; ;Koyanagi;Koji;Japan;JPN; ;M;MH;10; ;02:18:56;1998
+17; ;Kishimoto;Minuro;Kawaguchi;JPN; ;M;M30;6; ;02:19:00;1998
+18; ;Schondelmayer;John;SG Ludwigsburg;GER; ;M;MH;11; ;02:19:05;1998
+19; ;Bimro;Asaf;Israel;ISR; ;M;MH;12; ;02:19:32;1998
+20; ;Hudzik;Roman;Hydrolek;GER; ;M;MH;13; ;02:21:1;1998
+1;2;Kiprono;Josephat;Kenia;KEN;1973;M;MH;1;02:06:44;02:06:44;1999
+2;27;Inubushi;Takayuki;Japan;JPN;1972;M;MH;2;02:06:57;02:06:57;1999
+3;3;Kandie;Samson;Kenia;KEN;1971;M;MH;3;02:08:31;02:08:31;1999
+4;83;Chatt;Hicham;Marokko;MAR;1971;M;MH;4;02:09:56;02:09:56;1999
+5;85;Cherono;Henry;Kenia;KEN;1978;M;MH;5;02:10:37;02:10:37;1999
+6;35;Glinka;Waldemar;Polen;POL;1968;M;M30;1;02:11:53;02:11:53;1999
+7;7;Nascimento;Eduardo do;Brasilien;BRA;1972;M;MH;6;02:12:12;02:12:12;1999
+8;17;Ndungu;Stephen;Kenia;KEN;1967;M;M30;2;02:12:23;02:12:23;1999
+9;19;Tokunaga;Daisuke;Japan;JPN;1965;M;M30;3;02:13:09;02:13:09;1999
+10;84;de Souza;José Teles;Brasilien;BRA;1972;M;MH;7;02:13:25;02:13:25;1999
+11;18;Kariuki;Joseph;Kenia;KEN;1970;M;MH;8;02:13:58;02:13:58;1999
+12;9;Thlobo;Ezael;Südafrika;RSA;1964;M;M35;1;02:14:35;02:14:35;1999
+13;31;Glogosz;Grzegorz;Polen;POL;1969;M;M30;4;02:14:55;02:14:55;1999
+14;22;Yokoyama;Kei;Japan;JPN;1974;M;MH;9;02:15:33;02:15:33;1999
+15;24;Kobayashi;Seiji;Japan;JPN;1977;M;MH;10;02:15:46;02:15:46;1999
+16;74;Negolepus;Joseph;Kenia;KEN;1975;M;MH;11;02:16:39;02:16:39;1999
+17;86;Jimenez-Cancini;Sergio;Mexico;MEX;1966;M;M30;5;02:16:40;02:16:40;1999
+18;33;Wenisch;Max;Österreich;AUT;1961;M;M35;2;02:16:45;02:16:45;1999
+19;6;Franke;Stephane;SCC Berlin;GER;1964;M;M35;3;02:16:59;02:16:59;1999
+20;11;Tenorio;Franklin;Ecuador;ECU;1969;M;M30;6;02:17:06;02:17:0;1999
+1;94;Biwott;Simon;Kenia;KEN;1970;M;M30;1;02:07:42;02:07:42;2000
+2;8;Pena;Antonio;Spanien;ESP;1970;M;M30;2;02:07:47;02:07:47;2000
+3;7;Kabiga;Jackson;Kenia;KEN;1976;M;MH;1;02:09:51;02:09:51;2000
+4;15;Sunada;Takahiro;Japan;JPN;1973;M;MH;2;02:10:07;02:10:07;2000
+5;10;Kiptanui;Paul;Kenia;KEN;1969;M;M30;3;02:10:43;02:10:43;2000
+6;17;Chebet;Elias;Kenia;KEN;1974;M;MH;3;02:11:06;02:11:06;2000
+7;32;Moiben;James;Kenia;KEN;1900;M;MH;4;02:12:31;02:12:31;2000
+8;29;Moeketsana;Motsehi;Südafrika;RSA;1970;M;M30;4;02:12:46;02:12:46;2000
+9;21;Musyoki;William;Kenia;KEN;1966;M;M30;5;02:12:54;02:12:54;2000
+10;12;Taye;Moges;Äthiopien;ETH;1973;M;MH;5;02:13:35;02:13:35;2000
+11;31;Losian;Jacob;Kenia;KEN;1900;M;MH;6;02:13:44;02:13:44;2000
+12;22;Suzuki;Hiroyuki;Japan;JPN;1971;M;MH;7;02:14:34;02:14:34;2000
+13;75;Kwambai;Charles;Kenia;KEN;1900;M;MH;8;02:17:32;02:17:32;2000
+14;23;Mazibuko;Jacob;Südafrika;RSA;1969;M;M30;6;02:18:19;02:18:19;2000
+15;73;Miano;Jermiah;Kenia;KEN;1900;M;MH;9;02:18:54;02:18:54;2000
+16;72;Armor;Dahbi;Algerien;ALG;1972;M;MH;10;02:19:09;02:19:09;2000
+17;71;Netshifhefhe;Bethuel;Südafrika;RSA;1972;M;MH;11;02:20:05;02:20:05;2000
+18;70;Martin;Oscar;Spanien;ESP;1974;M;MH;12;02:20:16;02:20:16;2000
+19;5;Miki;Hiroshi;Japan;JPN;1975;M;MH;13;02:20:34;02:20:34;2000
+20;51;Haile-Melkot;Teshome;Israel;ISR;1965;M;M35;1;02:20:58;02:20:5;2000
+1;91;Ngolepus;Joseph;Kenia;KEN;1975;M;MH;1;02:08:47;02:08:47;2001
+2;6;Cheruiyot;Willy;Kenia;KEN;1967;M;M30;1;02:09:08;02:09:08;2001
+3;2;Kiplagat;William;Kenia;KEN;1972;M;MH;2;02:09:55;02:09:55;2001
+4;24;Ogata;Tsuyoshi;Japan;JPN;1973;M;MH;3;02:10:06;02:10:06;2001
+5;5;Goffi;Danilo;Italien;ITA;1972;M;MH;4;02:10:35;02:10:35;2001
+6;61;Chumba;Frederick;Kenia;KEN;1974;M;MH;5;02:10:36;02:10:36;2001
+7;17;Fika;Makhosonke;Südafrika;RSA;1972;M;MH;6;02:10:47;02:10:47;2001
+8;22;Röthlin;Viktor;Schweiz;SUI;1973;M;MH;7;02:10:54;02:10:54;2001
+9;20;Eticha;Tesfaye;Äthiopien;ETH;1974;M;MH;8;02:11:19;02:11:19;2001
+10;46; ; ;Angola;ANO;1968;M;M30;2;02:11:40;02:11:40;2001
+11;27;Muindi;Jimmy;Kenia;KEN;1973;M;MH;9;02:11:42;02:11:42;2001
+12;16;Ramos;Andre;Brasilien;BRA;1970;M;M30;3;02:11:47;02:11:47;2001
+13;72;Silva;Elenilson da;Brasilien;BRA;1972;M;MH;10;02:12:14;02:12:14;2001
+14;45;Silva;Romulo da;Brasilien;BRA;1977;M;MH;11;02:12:24;02:12:24;2001
+15;41;Dobrzynski;Adam;Polen;POL;1974;M;MH;12;02:12:29;02:12:29;2001
+16;48;Kipketer;Francis;Kenia;KEN;1900;M;MH;13;02:12:50;02:12:50;2001
+17;8;Obinata;Hideyuki;Japan;JPN;1976;M;MH;14;02:12:50;02:12:50;2001
+18;33;Chelanga;Elias;Kenia;KEN;1974;M;MH;15;02:12:56;02:12:56;2001
+19;25;Buchleitner;Michael;Österreich;AUT;1969;M;M30;4;02:13:03;02:13:03;2001
+20;3;Juzdado;Alberto;Spanien;ESP;1966;M;M35;1;02:13:36;02:13:3;2001
+1;61;Kipkoech;Raymond;Kenia;KEN;1980;M;MH;1;02:06:47;02:06:47;2002
+2;4;Biwott;Simon;Kenia;KEN;1970;M;M30;1;02:06:49;02:06:49;2002
+3;12;Kipsos;Vincent;Kenia;KEN;1976;M;MH;2;02:06:52;02:06:52;2002
+4;83;Usisivu;Boniface;Kenia;KEN;1971;M;M30;2;02:07:50;02:07:50;2002
+5;21;Muindi;Jimmy;Kenia;KEN;1973;M;MH;3;02:08:25;02:08:25;2002
+6;17;Matsuda;Kazuhiro;Japan;JPN;1974;M;MH;4;02:10:31;02:10:31;2002
+7;37;Palalia;Jose Ernani;Mexiko;MEX;1900;M;MH;5;02:10:39;02:10:39;2002
+8;3;Tanui;Moses;Kenia;KEN;1965;M;M35;1;02:10:40;02:10:40;2002
+9;33;Mutai;Elijah;Kenia;KEN;1900;M;MH;6;02:10:41;02:10:41;2002
+10;86;Yatich;Mark;Kenia;KEN;1900;M;MH;7;02:10:55;02:10:55;2002
+11;19;Thlobo;Ezael;Südafrika;RSA;1964;M;M35;2;02:11:08;02:11:08;2002
+12;18;Fernandez;Oscar;Spanien;ESP;1974;M;MH;8;02:11:11;02:11:11;2002
+13;6;Kahugu;Joseph;Kenia;KEN;1971;M;M30;3;02:11:20;02:11:20;2002
+14;82;Chaica;Alberto;Portugal;PRT;1973;M;MH;9;02:12:02;02:12:02;2002
+15;16;Negussie;Hailu;Äthiopien;ETH;1900;M;MH;10;02:12:27;02:12:27;2002
+16;2;Costa;Ronaldo da;Brasilien;BRA;1970;M;M30;4;02:12:52;02:12:52;2002
+17;29;Garcia;Nestor;Uruguay;URU;1975;M;MH;11;02:13:10;02:13:10;2002
+18;5;Castro;Domingos;Portugal;PRT;1963;M;M35;3;02:13:23;02:13:23;2002
+19;28;Watanabe;Shinichi;Japan;JPN;1975;M;MH;12;02:13:25;02:13:25;2002
+20;1;Ngolepus;Joseph;Kenia;KEN;1975;M;MH;13;02:14:36;02:14:3;2002
+1;2;Tergat;Paul; ;KEN;1969;M;M30;1;02:04:55;02:04:55;2003
+2;83;Korir;Sammy; ;KEN;0;M;MH;1;02:04:56;02:04:56;2003
+3;84;Munji;Titus; ;KEN;0;M;MH;2;02:06:15;02:06:15;2003
+4;40;Espinosa;Andres; ;MEX;1967;M;M35;1;02:08:46;02:08:46;2003
+5;1;Kipkoech;Raymond; ;KEN;1980;M;MH;3;02:09:21;02:09:21;2003
+6;12;Matsuda;Kazuhiro; ;JAP;1974;M;MH;4;02:09:49;02:09:49;2003
+7;30;Umeki;Kurao; ;JAP;1975;M;MH;5;02:09:52;02:09:52;2003
+8;26;Ramos;Andre; ;BRA;1970;M;M30;2;02:09:58;02:09:58;2003
+9;28;Fika;Makhosonke; ;RSA;1972;M;M30;3;02:10:16;02:10:16;2003
+10;10;Caballero;Javier; ;ESP;1972;M;M30;4;02:10:44;02:10:44;2003
+11;22;Yamamoto;Yasuaki; ;JAP;1972;M;M30;5;02:10:55;02:10:55;2003
+12;8;Osaki;Satoshi; ;JAP;1976;M;MH;6;02:12:07;02:12:07;2003
+13;3;Holmen;Janne; ;FIN;1977;M;MH;7;02:12:10;02:12:10;2003
+14;15;Tsutsumu;Tadayuki; ;JAP;1977;M;MH;8;02:12:41;02:12:41;2003
+15;14;Sato;Yohei; ;JAP;1979;M;MH;9;02:13:37;02:13:37;2003
+16;88;Losian;Jacob; ;KEN;0;M;MH;10;02:13:42;02:13:42;2003
+17;18;Hyung;Jae-Young; ;KOR;1971;M;M30;6;02:14:21;02:14:21;2003
+18;23;Rudyk;Mykola; ;UKR;1973;M;M30;7;02:14:29;02:14:29;2003
+19;37;de Mendonca;Alex; ;BRA;0;M;MH;11;02:14:45;02:14:45;2003
+20;74;Mamashayeu;Jakhir; ;UKR;1979;M;MH;12;02:15:20;02:15:2;2003
+1;2;Limo;Felix;Kenia;KEN;1980;M;MH;1;02:06:44;02:06:44;2004
+2;47;Riri;Joseph;Kenia;KEN;1973;M;M30;1;02:06:49;02:06:49;2004
+3;21;Chelanga;Josua;Kenia;KEN;1973;M;M30;2;02:07:05;02:07:05;2004
+4;7;Onsare;Wilson;Kenia;KEN;1976;M;MH;2;02:08:53;02:08:53;2004
+5;28;Jesus;Luis;Portugal;PRT;1968;M;M35;1;02:09:08;02:09:08;2004
+6;18;Watanabe;Shinichi;Japan;JPN;1976;M;MH;3;02:09:32;02:09:32;2004
+7;23;Novo;Luis;Portugal;PRT;1970;M;M30;3;02:09:41;02:09:41;2004
+8;22;Melese;Gashaw;Äthiopien;ETH;1978;M;MH;4;02:09:47;02:09:47;2004
+9;70;Macharia;Isaac;Kenia;KEN;1980;M;MH;5;02:11:26;02:11:26;2004
+10;17;Kipyego;Ernest;Kenia;KEN;1976;M;MH;6;02:11:52;02:11:52;2004
+11;43;Wangai;Simon;Kenia;KEN;1978;M;MH;7;02:12:08;02:12:08;2004
+12;157;Itok;Benjamin; ;KEN;1972;M;M30;4;02:12:17;02:12:17;2004
+13;10;Kiprop;Fred;Kenia;KEN;0;M;MH;8;02:12:42;02:12:42;2004
+14;35;Ogura;Makoto;Japan;JAP;1972;M;M30;5;02:12:48;02:12:48;2004
+15;74;Ngaseke;Michael;Simbabwe;ZIM;1976;M;MH;9;02:12:53;02:12:53;2004
+16;38;Tokunaga;Takashi;Japan;JAP;1981;M;MH;10;02:13:39;02:13:39;2004
+17;25;Mbote;Jason;Kenia;KEN;1978;M;MH;11;02:13:42;02:13:42;2004
+18;24;Terefa;Dawit;Äthiopien;ETH;1977;M;MH;12;02:14:18;02:14:18;2004
+19;29;Irifune;Satoshi;Japan;JAP;1975;M;MH;13;02:14:18;02:14:18;2004
+20;40;Schütz;Carsten;TV Wattenscheid;GER;1975;M;MH;14;02:14:41;02:14:4;2004
+1;10;Manyim;Philip;Kenia;KEN;1978;M;MH;1;02:07:41;02:07:41;2005
+2;11;Chebet;Peter;Kenia;KEN;1976;M;MH;2;02:08:58;02:08:58;2005
+3;9;Koech;Jackson;Kenia;KEN;1978;M;MH;3;02:09:07;02:09:07;2005
+4;3;Chelanga;Joshua;Kenia;KEN;1973;M;M30;1;02:09:10;02:09:10;2005
+5;8;Ngolepus;Joseph;Kenia;KEN;1975;M;M30;2;02:10:10;02:10:10;2005
+6;17;Mola;Shimeles;Äthiopien;ETH;1982;M;MH;4;02:10:11;02:10:11;2005
+7;4;Rotich;Michael;Kenia;KEN;1982;M;MH;5;02:10:53;02:10:53;2005
+8;25;Letherby;Andrew;Australien;AUS;1973;M;M30;3;02:11:42;02:11:42;2005
+9;22;da Silva;Romulo;Brasilien;BRA;1977;M;MH;6;02:12:03;02:12:03;2005
+10;30;Yae;Terefe;Äthiopien;ETH;1982;M;MH;7;02:12:07;02:12:07;2005
+11;7;Lee;Bong-Ju;Korea;KOR;1970;M;M35;1;02:12:19;02:12:19;2005
+12;26;Nankervis;Shane;Australien;AUS;1974;M;M30;4;02:12:33;02:12:33;2005
+13;31;Kinyanjui;Nephat;Kenia;KEN;1977;M;MH;8;02:12:48;02:12:48;2005
+14;32;Amaha;Giday;Äthiopien;ETH;1979;M;MH;9;02:13:00;02:13:00;2005
+15;36;Sly;Phillip;Australien;AUS;1974;M;M30;5;02:16:32;02:16:32;2005
+16;18;Katayama;Toshiya;Japan;JAP;1973;M;M30;6;02:16:35;02:16:35;2005
+17;130;Kandie;Christopher;Kenia;KEN;1969;M;M35;2;02:19:11;02:19:11;2005
+18;F2;Noguchi;Mizuki;Japan;JAP;1978;W;WH;1;02:19:12;02:19:12;2005
+19;54;Leigthon;Nigel;Großbritannien;GBR;1978;M;MH;10;02:19:20;02:19:20;2005
+20;50;Mukai;Takaaki;Japan;JAP;1980;M;MH;11;02:20:08;02:20:0;2005
+1;1;Gebrselassie;Haile;Äthiopien;ETH;1973;M;M30;1;02:04:26;02:04:26;2007
+2;19;Kirui;Abel;Kenia;KEN;1978;M;MH;1;02:06:51;02:06:51;2007
+3;10;Kipsang;Salim;Kenia;KEN;1979;M;MH;2;02:07:29;02:07:29;2007
+4;6;Manyim;Philip;Kenia;KEN;1978;M;MH;3;02:08:01;02:08:01;2007
+5;20;Adimasu;Mesfin;Äthiopien;ETH;0;M;MH;4;02:09:49;02:09:49;2007
+6;12;Troop;Lee;Australien;AUS;1973;M;M30;2;02:10:31;02:10:31;2007
+7;30;Sowa;Arkadiusz;Polen;POL;1979;M;MH;5;02:12:00;02:12:00;2007
+8;9;Kahugu;Joseph;Kenia;KEN;1971;M;M35;1;02:12:08;02:12:08;2007
+9;70;Seto;Tomohiro;Kanebo;JPN;1976;M;M30;3;02:12:21;02:12:21;2007
+10;74;Caceres;Ignacio;Spanien;ESP;1976;M;M30;4;02:12:46;02:12:46;2007
+11;80;Wodajo;Teferi;Äthiopien;ETH;1982;M;MH;6;02:13:13;02:13:15;2007
+12;18;Arusei;Moses;Kenia;KEN;1983;M;MH;7;02:13:44;02:13:46;2007
+13;75;Iglesias;Rafael;Spanien;ESP;1979;M;MH;8;02:13:45;02:13:47;2007
+14;17;Fekadu;Asnake;Äthiopien;ETH;1982;M;MH;9;02:14:09;02:14:12;2007
+15;27;Iveruk;Myhaylo;Ukraine;UKR;1975;M;M30;5;02:14:47;02:14:49;2007
+16;14;Irifune;Satoshi;Kanebo;JPN;1975;M;M30;6;02:14:51;02:14:54;2007
+17;22;Westcott;Scott;Australien;AUS;1975;M;M30;7;02:15:00;02:15:02;2007
+18;13;Umeki;Kurao;Japan;JPN;1975;M;M30;8;02:16:17;02:16:19;2007
+19;25;Kejzar;Roman;Slowenien;SVN;1966;M;M40;1;02:17:24;02:17:26;2007
+20;77;Diaz;Javier;Spanien;ESP;1976;M;M30;9;02:17:41;02:17:4;2007
+1;1;Gebrselassie;Haile; ;ETH;1973;M;M35;1;02:03:59;02:03:59;2008
+2;10;Kwambai;James; ;KEN;1983;M;MH;1;02:05:36;02:05:36;2008
+3;2;Kamathi;Charles; ;KEN;1978;M;M30;1;02:07:48;02:07:48;2008
+4;97;Kipchumba;Mariko; ;KEN;1976;M;M30;2;02:09:03;02:09:03;2008
+5;9;Ademasu;Mesfin; ;ETH;1985;M;MH;2;02:12:02;02:12:02;2008
+6;5;Ngolepus;Joseph; ;KEN;1975;M;M30;3;02:12:07;02:12:07;2008
+7;7;Jitsui;Kenjiro; ;JPN;1968;M;M40;1;02:12:48;02:12:48;2008
+8;4;Suwa;Toshinari; ;JPN;1977;M;M30;4;02:13:04;02:13:04;2008
+9;21;Cierpinski;Falk;SG Spergau;GER;1978;M;M30;5;02:13:30;02:13:30;2008
+10;6;Kiprop;Francis; ;KEN;1982;M;MH;3;02:14:30;02:14:30;2008
+11;12;Limo;Andrew; ;KEN;1984;M;MH;4;02:15:30;02:15:30;2008
+12;25;Koch;Stefan;TV Wattenscheid;GER;1984;M;MH;5;02:15:38;02:15:38;2008
+13;17;Nigusse;Tola Ketema; ;ETH;1981;M;MH;6;02:15:45;02:15:45;2008
+14;15;Keiyo;Josphat; ;KEN;1983;M;MH;7;02:18:06;02:18:06;2008
+15;F2;Mikitenko;Irina;TV Wattenscheid;GER;1972;W;W35;1;02:19:19;02:19:19;2008
+16;33890;Farsöht;Jeppe;Herning Loebeklub;DNK;1978;M;M30;6;02:19:23;02:19:26;2008
+17;23;Wudage;Zevadia; ;ISR;1973;M;M35;2;02:19:40;02:19:40;2008
+18;26;Achmüller;Hermann;Südtiroler Laufverein;ITA;1971;M;M35;3;02:19:45;02:19:45;2008
+19;110;Bialk;Jan; ;POL;0;M;MH;8;02:19:53;02:19:53;2008
+20;44;Awada;Hussein; ;LBN;1974;M;M30;7;02:20:36;02:20:3;2008
+1;1;Gebrselassie;Haile;Äthiopien;ETH;1973;M;M35;1;02:06:08;02:06:08;2009
+2;6;Kiprop;Francis; ;KEN;1982;M;MH;1;02:07:04;02:07:04;2009
+3;13;Terfa;Negari; ;ETH;1983;M;MH;2;02:07:41;02:07:41;2009
+4;10;Debele Tulu;Dereje; ;ETH;1986;M;MH;3;02:09:41;02:09:41;2009
+5;11;Kering;Alfred; ;KEN;0;M;MH;4;02:09:52;02:09:52;2009
+6;42;Assefa;Girma; ;ETH;1984;M;MH;5;02:09:58;02:09:58;2009
+7;7;Wondimu;Eshetu; ;ETH;1982;M;MH;6;02:12:28;02:12:28;2009
+8;4;Fujita;Atsushi;Japan;JPN;1976;M;M30;1;02:12:54;02:12:54;2009
+9;15;Takahashi;Kensuke; ;JPN;1978;M;M30;2;02:13:00;02:13:00;2009
+10;40;Nyasango;Cuthbert; ;ZWE;1982;M;MH;7;02:13:19;02:13:19;2009
+11;79;Tanui;Maswai; ;KEN;0;M;MH;8;02:13:27;02:13:27;2009
+12;12;Fekadu;Asnake; ;ETH;1982;M;MH;9;02:15:05;02:15:05;2009
+13;14;Abyu;Tomas; ;GBR;1978;M;M30;3;02:15:35;02:15:35;2009
+14;50;Krop;Vincent; ;KEN;1983;M;MH;10;02:16:15;02:16:15;2009
+15;43;Faurschou;Jesper; ;DNK;1983;M;MH;11;02:17:33;02:17:33;2009
+16;107;Rivera Rivera;Luis Alberto;Puerto Rico;USA;1973;M;M35;2;02:17:59;02:17:59;2009
+17;45;Seiler;Christian;LC Erfurt;GER;1983;M;MH;12;02:18:11;02:18:11;2009
+18;25;Hohenwarter;Markus; ;AUT;1980;M;MH;13;02:18:47;02:18:47;2009
+19;78;Mayaka;Boash; ;KEN;1983;M;MH;14;02:19:52;02:19:52;2009
+20;118;Haß;Erik;SV Vorwärts Zwickau;GER;1982;M;MH;15;02:21:39;02:21:3;2009
+1;2;Makau;Patrick;Kenia;KEN;1985;M;MH;1;02:05:08;02:05:08;2010
+2;3;Mutai;Geoffrey;Kenia;KEN;1981;M;MH;2;02:05:10;02:05:10;2010
+3;6;Worku;Bazu;Äthiopien;ETH;1990;M;MH;3;02:05:25;02:05:25;2010
+4;8;Tsegay;Yemane;Äthiopien;ETH;1985;M;MH;4;02:07:52;02:07:52;2010
+5;5;Kiptanui;Eliud;Kenia;KEN;1989;M;MH;5;02:08:05;02:08:05;2010
+6;10;Kipyego;Bernard;Kenia;KEN;1986;M;MH;6;02:08:50;02:08:50;2010
+7;17;Abraham;Tadese;LC Uster;ERI;1982;M;MH;7;02:09:24;02:09:24;2010
+8;7;Yegon;Gilbert;Kenia;KEN;1988;M;MH;8;02:10:34;02:10:34;2010
+9;11;Fujiwara;Masakazu;Honda Motors;JPN;1981;M;MH;9;02:12:00;02:12:00;2010
+10;26;Bat-Ochir;Ser-Od; ;MNG;1981;M;MH;10;02:12:42;02:12:42;2010
+11;27;Hernandez;Jose Carlos;Spanien;ESP;1978;M;M30;1;02:13:46;02:13:46;2010
+12;37;Nebsi;Mengistu Tabor;Äthiopien;ETH;1977;M;M30;2;02:15:13;02:15:13;2010
+13;29;Leiva;Jaume;Spanien;ESP;1983;M;MH;11;02:15:28;02:15:28;2010
+14;9;Wendimu;Eshetu;Äthiopien;ETH;1982;M;MH;12;02:15:36;02:15:36;2010
+15;19;Lemaev;Mikhail;Russland;RUS;1986;M;MH;13;02:15:43;02:15:43;2010
+16;34;Kleis;Mikkel;Dänemark;DNK;1980;M;M30;3;02:19:33;02:19:33;2010
+17;41;Da Silva;Sergio Celestino;Brasilien;BRA;1984;M;MH;14;02:19:38;02:19:38;2010
+18;4;Korir;Sammy;Kenia;KEN;1971;M;M35;1;02:19:55;02:19:55;2010
+19;18;Feleke;Masresha Haile;Äthiopien;ETH;1983;M;MH;15;02:20:19;02:20:19;2010
+20;47;Crabill;Alex; ;USA;1988;M;MH;16;02:20:38;02:20:4;2010
+1;1;Makau;Patrick;Kenia;KEN;1985;M;H;1;02:03:38;02:03:38;2011
+2;87;Kwelio Chemlany;Stephen; ;KEN;1982;M;H;2;02:07:55;02:07:55;2011
+3;11;Kimaiyo;Edwin;Kenia;KEN;1986;M;H;3;02:09:50;02:09:50;2011
+4;3;Limo;Felix;Kenia;KEN;1980;M;30;1;02:10:38;02:10:38;2011
+5;67;Overall;Scott;Blackheath @ Bromley;GBR;1983;M;H;4;02:10:55;02:10:55;2011
+6;65;Serrano;Ricardo;Spanien;ESP;1980;M;30;2;02:13:32;02:13:32;2011
+7;15;Nimo;Pedro;Spanien;ESP;1980;M;30;3;02:13:34;02:13:34;2011
+8;7;Munyutu;Simon;Frankreich;FRA;1977;M;30;4;02:14:20;02:14:20;2011
+9;4;El Himer;Driss;Frankreich;FRA;1974;M;35;1;02:14:46;02:14:46;2011
+10;5;Ramalaa;Hendrick;Südafrika;ZAF;1972;M;35;2;02:16:00;02:16:00;2011
+11;23;Whitby;Benedict;Windsor Slough Eton;GBR;1977;M;30;5;02:16:27;02:16:27;2011
+12;60;Ricatti;Domenico;Italien;ITA;1979;M;30;6;02:16:31;02:16:31;2011
+13;17;Abera;Yohanis;Äthiopien;ETH;1987;M;H;5;02:16:38;02:16:38;2011
+14;30;Martelletti;Paul;Neuseeland;NZL;1979;M;30;7;02:16:49;02:16:49;2011
+15;35;Sibanda;Nkosiyazi;Simbabwe;ZWE;1981;M;30;8;02:17:11;02:17:11;2011
+16;50;Poulios;Konstantinos;Griechenland;GRC;1977;M;30;9;02:17:12;02:17:12;2011
+17;72;Karlsson;Kari Steinn; ;ISL;1986;M;H;6;02:17:12;02:17:12;2011
+18;36;Ford;Anthony;Sale Manchester;GBR;1983;M;H;7;02:17:16;02:17:16;2011
+19;41;Crabill;Alex; ;USA;1988;M;H;8;02:17:42;02:17:42;2011
+20;70;Andersen;Henrik Them;Sparta;DNK;1982;M;H;9;02:17:47;02:17:4;2011
+1;2;Mutai;Geoffrey;Kenia;KEN;1981;M;30;1;02:04:15;02:04:15;2012
+2;21;Kimetto;Dennis;Kenia;KEN;1984;M;H;1;02:04:16;02:04:16;2012
+3;20;Kipsang;Geoffrey;Kenia;KEN;1992;M;H;2;02:06:12;02:06:12;2012
+4;4;Kamakya;Nicholas;Kenia;KEN;1985;M;H;3;02:08:28;02:08:28;2012
+5;15;Keiyo;Josphat;Kenia;KEN;1980;M;30;2;02:08:41;02:08:41;2012
+6;66;Jepkopol;Josphat;Kenia;KEN;1984;M;H;4;02:08:44;02:08:44;2012
+7;3;Maiyo;Jonathan;Kenia;KEN;1988;M;H;5;02:09:19;02:09:19;2012
+8;22;Kiptanui;Eliud;Kenia;KEN;1989;M;H;6;02:09:59;02:09:59;2012
+9;5;Keny;Felix;Kenia;KEN;1985;M;H;7;02:10:22;02:10:22;2012
+10;7;Fujiwara;Masakazu;Japan;JPN;1981;M;30;3;02:11:31;02:11:31;2012
+11;14;Ishikawa;Suehiro;Japan;JPN;1979;M;30;4;02:11:46;02:11:46;2012
+12;9;Woldeamanuel;Samuel;Äthiopien;ETH;1981;M;30;5;02:12:33;02:12:33;2012
+13;18;Uribe;Jose Antonio;Mexico;MEX;1986;M;H;8;02:12:43;02:12:43;2012
+14;19;Fitschen;Jan;TV Wattenscheid 01;GER;1977;M;35;1;02:13:10;02:13:10;2012
+15;25;Gamonal;Miguel;Spanien;ESP;1981;M;30;6;02:13:14;02:13:14;2012
+16;17;Gualdi;Giovanni;Italien;ITA;1979;M;30;7;02:13:55;02:13:55;2012
+17;12;Ikawa;Atsushi;Japan;JPN;1983;M;H;9;02:14:20;02:14:20;2012
+18;28;Kreienbühl;Christian;TV Oerlikon;CHE;1981;M;30;8;02:15:35;02:15:35;2012
+19;27;Anthony;Phil;GBR;GBR;1981;M;30;9;02:18:08;02:18:08;2012
+20;35;Budolfsen;Lars;Sparta Denmark;DNK;1980;M;30;10;02:19:32;02:19:3;2012
+1;2;Kipsang;Wilson;Kenia;KEN;1982;M;30;1;02:03:23;02:03:23;2013
+2;3;Kipchoge;Eliud;Kenia;KEN;1984;M;H;1;02:04:05;02:04:05;2013
+3;5;Kipsang;Geoffrey;Kenia;KEN;1992;M;H;2;02:06:26;02:06:26;2013
+4;9;Chemlany;Stephen Kwelio;Kenia;KEN;1982;M;30;2;02:07:44;02:07:44;2013
+5;35;Kiptanui;Maswai;Kenia;KEN;1988;M;H;3;02:08:52;02:08:52;2013
+6;7;dos Santos;Marilson;Brasilien;BRA;0;M; ;0;02:09:24;02:09:24;2013
+7;12;Ishikawa;Suehiro;Japan;JPN;1979;M;30;3;02:10:24;02:10:24;2013
+8;15;Kobayashi;Koji;Japan;JPN;0;M; ;0;02:11:31;02:11:31;2013
+9;42;Silva;Rui;Portugal;PRT;1977;M;35;1;02:12:16;02:12:16;2013
+10;6;Jisa;Sisay;Äthiopien;ETH;1982;M;30;4;02:12:17;02:12:17;2013
+11;25;Brzezinski;Blazey;Polen;POL;1987;M;H;4;02:12:17;02:12:17;2013
+12;10;Keiyo;Josphat;Kenia;KEN;1980;M;30;5;02:12:40;02:12:40;2013
+13;43;Habarurema;Jean;Frankreich;FRA;1976;M;35;2;02:12:40;02:12:40;2013
+14;20;Pollmächer;Andre;Rhein-Marathon Düsseldorf;GER;1983;M;30;6;02:13:05;02:13:05;2013
+15;18;Gardzielewski;Arkadiusz;Polen;POL;1986;M;H;5;02:13:53;02:13:53;2013
+16;27;van Schuerbeeck;Willem;Belgien;BEL;1984;M;H;6;02:14:19;02:14:19;2013
+17;29;Pellecchia;Liberato;Italien;ITA;1982;M;30;7;02:14:28;02:14:28;2013
+18;22;Cierpinski;Falk;SG Spergau;GER;1978;M;35;3;02:14:50;02:14:50;2013
+19;44;Rybak;Vitaly;ART Düsseldorf;UKR;1980;M;30;8;02:15:39;02:15:39;2013
+20;21;Gamonal;Miguel;Spanien;ESP;1981;M;30;9;02:17:19;02:17:1;2013
+1;2;Kimetto;Dennis;Kenia;KEN;1984;M;30;1;02:02:57;02:02:57;2014
+2;3;Mutai;Emmanuel;Kenia;KEN;1984;M;30;2;02:03:13;02:03:13;2014
+3;12;Kuma;Abera;Äthiopien;ETH;1990;M;H;1;02:05:56;02:05:56;2014
+4;8;Kamworor;Geoffrey;Kenia;KEN;1992;M;H;2;02:06:39;02:06:39;2014
+5;6;Kiptanui;Eliud;Kenia;KEN;1989;M;H;3;02:07:28;02:07:28;2014
+6;7;Chepkwony;Frankline;Kenia;KEN;1984;M;30;3;02:07:35;02:07:35;2014
+7;5;Matebo;Levy;Kenia;KEN;1989;M;H;4;02:08:33;02:08:33;2014
+8;11;Kiptanui;Maswai;Kenia;KEN;1988;M;H;5;02:10:18;02:10:18;2014
+9;4;Kebede;Tsegaye;Äthiopien;ETH;1987;M;H;6;02:10:27;02:10:27;2014
+10;16;Tomaru;Kazuki;Japan;JPN;1987;M;H;7;02:11:25;02:11:25;2014
+11;17;Cabada;Fernando;USA;USA;1982;M;30;4;02:11:36;02:11:36;2014
+12;15;El Hachimi;Abdelhadi; ;BEL;1974;M;40;1;02:12:45;02:12:45;2014
+13;10;Yamamoto;Ryo;Japan;JPN;1984;M;30;5;02:12:49;02:12:49;2014
+14;14;Overall;Scott;Blackheath @ Bromley;GBR;1983;M;30;6;02:13:00;02:13:00;2014
+15;19;Tokumoto;Kazuyoshi;Japan;JPN;1979;M;35;1;02:14:35;02:14:35;2014
+16;9;Maeda;Kazuhiro;Japan;JPN;1981;M;30;7;02:15:18;02:15:18;2014
+17;26;Manninen;Henri;Finnland;FIN;1985;M;H;8;02:16:43;02:16:43;2014
+18;27;Buccilli;Carmine;Atletica Casone Noceto;ITA;1982;M;30;8;02:16:45;02:16:45;2014
+19;18;Cierpinski;Falk;SG Spergau;GER;1978;M;35;2;02:17:25;02:17:25;2014
+20;24;Grano;Giovanni;Italien;ITA;1990;M;H;9;02:17:44;02:17:4;2014
+1;4;Kipchoge;Eliud;Kenia;KEN;1984;M;30;1;02:04:00;02:04:00;2015
+2;6;Kiptanui;Eliud;Kenia;KEN;1989;M;H;1;02:05:21;02:05:21;2015
+3;5;Lilesa;Feyisa;Äthiopien;ETH;1990;M;H;2;02:06:57;02:06:57;2015
+4;3;Mutai;Emmanuel;Kenia;KEN;1984;M;30;2;02:07:46;02:07:46;2015
+5;2;Mutai;Geoffrey;Kenia;KEN;1981;M;30;3;02:09:29;02:09:29;2015
+6;19;Coolseat;Reid;Canada;CAN;1979;M;35;1;02:10:28;02:10:28;2015
+7;25;Naert;Koen;EENDR:AALST;BEL;1989;M;H;3;02:10:31;02:10:31;2015
+8;15;Shegumo;Yared;Polen;POL;1983;M;30;4;02:10:47;02:10:47;2015
+9;43;Asmamaw Tiruneh;Chalachew;helpAge;ETH;1990;M;H;5;02:11:54;02:11:54;2015
+10;50;Llano;Matt;NAZ Elite;USA;1988;M;H;6;02:12:28;02:12:28;2015
+11;33;Sato;Yuki;Nissan Food;JPN;1988;M;H;7;02:12:32;02:12:32;2015
+12;39;van Schuerbeeck;Willem;Belgien;BEL;1984;M;30;7;02:12:49;02:12:49;2015
+13;35;Pflieger;Philipp;LG Telis Finanz Regensburg;GER;1987;M;H;8;02:12:50;02:12:50;2015
+14;48;Caelen;Florent;FC Liege;BEL;1989;M;H;9;02:12:51;02:12:51;2015
+15;45;Kreienbühl;Christian;TV Oerlikon;SUI;1981;M;30;8;02:13:57;02:13:57;2015
+16;34;Flügel;Julian;Team Memmert;GER;1986;M;H;10;02:13:57;02:13:57;2015
+17;100;Solomon;Tesfamariam;TVL Bern;ERI;1976;M;35;0;02:14:51;02:14:5;2015
+18;82;Seaward;Kevin;St Malachy's AC;IRL;1984;M;9;02:14:52;02:14:52
+19;11;Sakai;Masanori;Japan;JPN;1986;M;H;11;02:14:52;02:14:52
+20;83;Lehmann;Adrian;LV Langenthal;SUI;1989;M;H;12;02:15:08;02:15:08
+1;5;Bekele;Kenenisa; ;ETH;1982;M;30;1;02:03:03;02:03:03;2016
+2;3;Kipsang;Wilson;Kenia;KEN;1982;M;30;2;02:03:13;02:03:13;2016
+3;8;Chebet;Evans; ;KEN;1988;M;H;1;02:05:31;02:05:31;2016
+4;7;Lemma;Sisay; ;ETH;1990;M;H;2;02:06:56;02:06:56;2016
+5;9;Kiptanui;Eliud;Kenia;KEN;1989;M;H;3;02:07:47;02:07:47;2016
+6;17;Ronoh;Geoffrey;Kenia;KEN;1982;M;30;3;02:09:29;02:09:29;2016
+7;11;Lagat;Alfers; ;KEN;1986;M;30;4;02:09:46;02:09:46;2016
+8;18;Gebregergish;Yohanes; ;ERI;1989;M;H;4;02:09:48;02:09:48;2016
+9;12;Kendagor;Jacob;Kenia;KEN;1984;M;30;5;02:10:01;02:10:01;2016
+10;14;Simotwo;Suleiman; ;KEN;1980;M;35;1;02:10:22;02:10:22;2016
+11;10;Kiptoo;Mark; ;KEN;1976;M;40;1;02:10:24;02:10:24;2016
+12;2;Mutai;Emmanuel;Kenia;KEN;1984;M;30;6;02:10:29;02:10:29;2016
+13;13;Kawauchi;Yuki; ;JPN;1987;M;H;5;02:11:03;02:11:03;2016
+14;22;Ekvall;Mikael; ;SWE;1989;M;H;6;02:13:16;02:13:16;2016
+15;24;Habarurema;Jean;E2A;FRA;1976;M;40;2;02:13:57;02:13:57;2016
+16;37;Uliczka;Steffen; ;GER;1984;M;30;7;02:15:02;02:15:02;2016
+17;30;Richards;Malcolm;West Valley Track Club;USA;1982;M;30;8;02:15:10;02:15:10;2016
+18;21;Tiruneh;Chalachew;helpAge;ETH;1990;M;H;7;02:16:07;02:16:07;2016
+19;5063;Abdulaziz;Ebrahim;Strindheim Il;NOR;1978;M;35;2;02:16:49;02:16:53;2016
+20;36;Martelletti;Paul;Victoria Park Harriers/Tower H;NZL;1979;M;35;3;02:16:58;02:16:5;2016
+1;F0219;Loroupe;Tegla;Kenia;KEN;1973;W;WH;1;02:20:43;02:20:43;1999
+2;F0001;Renders;Marleen;Belgien;BEL;1968;W;W30;1;02:23:58;02:23:58;1999
+3;F0007;Zakharova;Svetlana;Rußland;RUS;1970;W;WH;2;02:27:08;02:27:08;1999
+4;F0003;Sobanska;Malgorzata;Polen;POL;1969;W;W30;2;02:27:30;02:27:30;1999
+5;F0005;Nikiel;Anila;Polen;POL;1965;W;W30;3;02:29:27;02:29:27;1999
+6;F0010;Terasaki;Shiki;Japan;JPN;1972;W;WH;3;02:30:42;02:30:42;1999
+7;F0008;Aktas;Serap;Türkei;TUR;1971;W;WH;4;02:31:43;02:31:43;1999
+8;F0018;Nauer;Daria;Schweiz;SUI;1966;W;W30;4;02:32:38;02:32:38;1999
+9;F0011;Chepkieny;Milkah;Kenia;KEN;1976;W;WH;5;02:32:46;02:32:46;1999
+10;F0015;Viola;Simona;Italien;ITA;1900;W;WH;6;02:33:33;02:33:33;1999
+11;F0012;Ernstsdottir;Martha;Island;ISL;1964;W;W35;1;02:35:15;02:35:15;1999
+12;F0014;Mitsukawa;Ai;Japan;JPN;1974;W;WH;7;02:37:12;02:37:12;1999
+13;F0020;Johansson;Susanne;Schweden;SWE;1962;W;W35;2;02:38:15;02:38:15;1999
+14;F4787;Bak;Maria;MTP Hersbruck;GER;1959;W;W40;1;02:42:15;02:42:15;1999
+15;F0021;Doddi;Emanuela;Italien;ITA;1963;W;W35;3;02:42:50;02:42:50;1999
+16;F4871;Andersen;Karin;Aarhus 1900;DEN;1964;W;W35;4;02:45:46;02:45:46;1999
+17;F9131;Wolfrom;Annette;OSC Berlin;GER;1969;W;W30;5;02:46:16;02:46:16;1999
+18;F0026;Lindh;Anna;Schweden;SWE;1974;W;WH;8;02:47:03;02:47:03;1999
+19;F0019;Kössler;Rosemarie;SCC Berlin;GER;1962;W;W35;5;02:48:16;02:48:16;1999
+20;F4630;Pieper;Anke;ATSV Espelkamp;GER;1968;W;W30;6;02:50:17;02:50:1;1999
+1;F0015;Matsuo;Kazumi;Japan;JPN;1977;W;WH;1;02:26:15;02:26:15;2000
+2;F0003;Fiacconi;Franka;Italien;ITA;1965;W;W35;1;02:26:42;02:26:42;2000
+3;F0016;Zhang;Shujing;China;CHN;1978;W;WH;2;02:27:14;02:27:14;2000
+4;F0007;Geji;Noriko;Japan;JPN;1973;W;WH;3;02:27:41;02:27:41;2000
+5;F0012;Kraus;Melanie;TSV Bayer Leverkusen;GER;1974;W;WH;4;02:27:57;02:27:57;2000
+6;F0041;Sampaio;Helena;Portugal;POR;1973;W;WH;5;02:29:34;02:29:34;2000
+7;F0011;Igarashi;Hiromi;Japan;JPN;1970;W;W30;1;02:29:39;02:29:39;2000
+8;F0021;Ivanova;Alina;Rußland;RUS;1969;W;W30;2;02:31:26;02:31:26;2000
+9;F0022;Ferrari;Sara;Italien;ITA;1977;W;WH;6;02:31:48;02:31:48;2000
+10;F0014;Dallenbach;Chantal;Frankreich;FRA;1962;W;W35;2;02:33:55;02:33:55;2000
+11;F0006;Shimizu;Midori;Japan;JPN;1971;W;WH;7;02:34:56;02:34:56;2000
+12;F0018;Birra;Tadelech;Äthiopien;ETH;1900;W;WH;8;02:36:52;02:36:52;2000
+13;F0020;Reinsford;Sue;Großbritannien;GBR;1900;W;WH;9;02:36:57;02:36:57;2000
+14;F0017;Kuta;Krystyna;Polen;POL;1967;W;W30;3;02:37:30;02:37:30;2000
+15;F0009;Terasaki;Shiki;Japan;JPN;1972;W;WH;10;02:39:55;02:39:55;2000
+16;F7765;Kusutani;Sayuri;Japan;JPN;1959;W;W40;1;02:40:05;02:40:05;2000
+17;F0023;Jensen;Annemette;Dänemark;DEN;1972;W;WH;11;02:40:29;02:40:29;2000
+18;F7799;Maisch;Ulrike;1. LAV Rostock;GER;1977;W;WH;12;02:40:34;02:40:34;2000
+19;F0027;Akerberg;Jenny;Schweden;SWE;1973;W;WH;13;02:41:01;02:41:01;2000
+20;F0069;Wolfrom;Annette;OSC Berlin;GER;1969;W;W30;4;02:41:44;02:41:4;2000
+1;F0009;Takahashi;Naoko;Japan;JPN;1972;W;WH;1;02:19:46;02:19:46;2001
+2;F0007;Loroupe;Tegla;Kenia;KEN;1973;W;WH;2;02:28:03;02:28:03;2001
+3;F0015;Weßel;Kathrin;SCC Berlin;GER;1967;W;W30;1;02:28:27;02:28:27;2001
+4;F0017;Terasaki;Shiki;Japan;JPN;1972;W;WH;3;02:33:23;02:33:23;2001
+5;F0020;Sugihara;Ai;Japan;JPN;1975;W;WH;4;02:34:56;02:34:56;2001
+6;F0027;Hartigan;Bev;Großbritanien;GBR;1900;W;WH;5;02:36:02;02:36:02;2001
+7;F0022;Ramos;Tina Maria;Spanien;ESP;1971;W;W30;2;02:36:25;02:36:25;2001
+8;F0024;Rabensteiner;Dagmar;LCC Wien;AUT;1963;W;W35;1;02:38:03;02:38:03;2001
+9;F7511;Stief;Christine;adidas-Salomon Team;GER;1971;W;W30;3;02:38:52;02:38:52;2001
+10;F0028;Johansson;Susanne;Stockholm Marathon;SWE;1962;W;W35;2;02:40:29;02:40:29;2001
+11;F0041;Benjaminsson;Camilla;Stockholm Marathon;SWE;1966;W;W35;3;02:45:12;02:45:12;2001
+12;F5181;Brema;Susanne;Neuköllner SF;GER;1970;W;W30;4;02:47:24;02:47:24;2001
+13;F0030;Cronjäger;Ines;LG Seesen;GER;1977;W;WH;6;02:48:59;02:48:59;2001
+14;F6713;Weise-Jung;Rebecka;LG Bremen Nord;GER;1957;W;W40;1;02:49:27;02:49:27;2001
+15;F6923;Dijk;Brigitte van;LG Solbad Ravensberg;GER;1950;W;W50;1;02:49:55;02:49:55;2001
+16;F8496;Korekki;Christiana;TuS E. Minden;GER;1965;W;W35;4;02:52:48;02:53:06;2001
+17;F1008;Klocke;Imke;Post SV Berlin;GER;1964;W;W35;5;02:53:51;02:53:52;2001
+18;F9731;Held;Sandra;OLG Biberist;SUI;1970;W;W30;5;02:54:26;02:54:29;2001
+19;F7233;Weber;Anneliese;TSV Mindelheim;GER;1960;W;W40;2;02:55:06;02:55:11;2001
+20;F6870;Berseth Dutruy;Sophie;Team UBS;SUI;1973;W;WH;8;02:56:42;02:57:2;2001
+1;F0003;Takahashi;Naoko;Japan;JPN;1972;W;W30;1;02:21:49;02:21:49;2002
+2;F0004;Fernandez;Adriana;Mexiko;MEX;1971;W;W30;2;02:24:11;02:24:11;2002
+3;F0006;Kimutai;Hellen;Kenia;KEN;1977;W;WH;1;02:26:10;02:26:10;2002
+4;F0008;Gemechu;Shitaye;Äthiopien;ETH;1980;W;WH;2;02:26:15;02:26:15;2002
+5;F0014;Buia;Aurica;Rumänien;ROM;1970;W;W30;3;02:32:47;02:32:47;2002
+6;F0009;Dahmani;Zahia;Frankreich;FRA;1972;W;W30;4;02:34:16;02:34:16;2002
+7;F0019;Lodge;Joanna;Großbritannien;GBR;1900;W;WH;3;02:34:17;02:34:17;2002
+8;F0007;Wessel;Kathrin;SCC Berlin;GER;1967;W;W35;1;02:36:36;02:36:36;2002
+9;F0010;Gonzalez;Griselda;Spanien;ESP;1965;W;W35;2;02:38:29;02:38:29;2002
+10;F0020;Döllinger;Christine;LAC Quelle Fürth;GER;1971;W;W30;5;02:39:37;02:39:37;2002
+11;F0048;Oberem;Sonja;TSV Bayer 04 Leverku;GER;1973;W;WH;4;02:40:44;02:40:44;2002
+12;F0023;Renz;Sylvia;OSC Berlin;GER;1969;W;W30;6;02:41:45;02:41:45;2002
+13;F3210;Florey;Isabelle;C.A.S. Sierre;SUI;1968;W;W30;7;02:43:12;02:43:12;2002
+14;F7852;Siewert;Carmen;LG Vorpommern;GER;1972;W;W30;8;02:44:04;02:44:04;2002
+15;F8707;Ruel;Elisabeth; ;CAN;1967;W;W35;3;02:45:40;02:45:40;2002
+16;F0018;Arana;Amaya; ;ESP;1973;W;WH;5;02:46:56;02:46:56;2002
+17;F0024;Ishibe;Naoko;USA;USA;1968;W;W30;9;02:47:22;02:47:22;2002
+18;F0042;Schedler;Michaela;LTF Marpingen;GER;1982;W;WH;9;02:51:18;02:51:19;2002
+19;F0015;Preßler;Kerstin;OSC Berlin;GER;1962;W;W40;1;02:52:01;02:52:02;2002
+20;F0030;dos Reis;Selma;Brasilien;BRA;1900;W;WH;10;02:52:01;02:52:0;2002
+1;F10;Hashimoto;Yasuko; ;JAP;1975;W;WH;1;02:26:32;02:26:32;2003
+2;F24;Kimuria;Emily; ;KEN;1965;W;W35;1;02:28:18;02:28:18;2003
+3;F6;Ferrara;Ornella; ;ITA;0;W;WH;2;02:28:28;02:28:28;2003
+4;F31;Dias;Ana; ;POR;1974;W;WH;3;02:28:49;02:28:49;2003
+5;F4;Ivanova;Alina; ;RUS;1969;W;W30;1;02:29:00;02:29:00;2003
+6;F15;Drybulska;Monika; ;POL;1980;W;WH;4;02:29:57;02:29:57;2003
+7;F21;Murata;Fumi; ;JAP;1975;W;WH;5;02:30:15;02:30:15;2003
+8;F30;Yelling;Liz; ;GBR;1974;W;WH;6;02:30:58;02:30:58;2003
+9;F36;Elias;Adelia; ;POR;1974;W;WH;7;02:34:07;02:34:07;2003
+10;F23;Rabensteiner;Dagmar; ;AUT;1963;W;W40;1;02:34:36;02:34:36;2003
+11;F32;Cheruiyot;Lenah; ;KEN;1973;W;W30;2;02:35:29;02:35:29;2003
+12;F42;Iozzia;Ivana; ;ITA;1973;W;W30;3;02:35:39;02:35:39;2003
+13;F44;Abatzidou;Georgia; ;GRE;1969;W;W30;4;02:36:57;02:36:57;2003
+14;F20;Ramos;Tina Maria; ;ESP;1971;W;W30;5;02:37:03;02:37:03;2003
+15;F8;Weßel;Kathrin;SCC Berlin;GER;1967;W;W35;2;02:38:15;02:38:15;2003
+16;F28;Akerberg;Jennie; ;SWE;1973;W;W30;6;02:38:17;02:38:17;2003
+17;F43;Kukkohovi;Maija; ;FIN;0;W;WH;8;02:39:07;02:39:07;2003
+18;F16;Jeitziner;Ursula; ;SUI;0;W;WH;9;02:41:49;02:41:49;2003
+19;F25;Carlsohn;Anja; ;GER;1978;W;WH;10;02:42:15;02:42:15;2003
+20;F35;Schäffer;Viola;LG Domspitzmilch;HUN;1974;W;WH;11;02:42:51;02:42:5;2003
+1;F3;Shibui;Yoko;Japan;JAP;1979;W;WH;1;02:19:41;02:19:41;2004
+2;F6;Ominami;Hiromi;Japan;JAP;1975;W;WH;2;02:23:26;02:23:26;2004
+3;F5;Oberem;Sonja;LG Bayer Leverkusen;GER;1973;W;W30;1;02:26:53;02:26:53;2004
+4;F7;Omwanza;Beatrice;Kenia;KEN;1974;W;W30;2;02:27:19;02:27:19;2004
+5;F15;Aman;Leila; ;ETH;0;W;WH;3;02:27:54;02:27:54;2004
+6;F8;Alagia;Tiziane;Italien;ITA;1973;W;W30;3;02:32:20;02:32:20;2004
+7;F22;Lewandowska;Edyta;Polen;POL;1980;W;WH;4;02:34:18;02:34:18;2004
+8;F14;Spitzmüller;Romy;Deutschland;GER;1981;W;WH;5;02:34:44;02:34:44;2004
+9;F50;Zipse;Manuela;TSG Heilbronn;GER;1976;W;WH;6;02:37:18;02:37:18;2004
+10;F26;Rahm;Anna;Schweden;SWE;1981;W;WH;7;02:37:32;02:37:32;2004
+11;F10;Wessel;Kathrin;SCC Berlin;GER;1967;W;W35;1;02:38:24;02:38:24;2004
+12;F28;Ashebir;Alem;Äthiopien;ETH;1985;W;WJA;1;02:39:39;02:39:39;2004
+13;F31;Schuri;Monika;LG Wehringen;GER;1969;W;W35;2;02:40:27;02:40:27;2004
+14;F35;Bidmon;Daniela;Österreich;AUT;1973;W;W30;4;02:43:51;02:43:51;2004
+15;F23;Akerberg;Jennie;Schweden;SWE;1973;W;W30;5;02:44:49;02:44:49;2004
+16;F33;Alonso;Remedios;Spanien;ESP;1975;W;WH;8;02:44:59;02:44:59;2004
+17;F5199;Korsten;Ira;LT DSHS Köln;GER;1980;W;WH;9;02:48:05;02:48:05;2004
+18;F4518;Joly;Angéline;GS Franches-Montagnes;SUI;1974;W;W30;6;02:49:23;02:49:23;2004
+19;F30;Gratsani;Paraskevi;Griechenland;GRE;1980;W;WH;10;02:50:07;02:50:09;2004
+20;F36;Voß;Stefanie;Deutschland;GER;1981;W;WH;11;02:50:09;02:50:1;2004
+1;F2;Noguchi;Mizuki;Japan;JAP;1978;W;WH;1;02:19:12;02:19:12;2005
+2;F5;Zaituc;Luminita;Deutschland;GER;1969;W;W35;1;02:27:34;02:27:34;2005
+3;F12;Tafa;Asale;Äthiopien;ETH;1984;W;WH;2;02:28:27;02:28:27;2005
+4;F7;Kraus;Melanie;Deutschland;GER;1974;W;W30;1;02:34:23;02:34:23;2005
+5;F4;Tola;Worknesh;Äthiopien;ETH;1977;W;WH;3;02:35:32;02:35:32;2005
+6;F20;Crombie-Hicks;Shona;Großbritannien;GBR;0;W;WH;4;02:38:42;02:38:42;2005
+7;F6613;Aagaard;Anne-Mette;Sparta Copenhagen;DEN;1973;W;W30;2;02:38:44;02:38:44;2005
+8;F15;Rahm;Anna;Schweden;SWE;1981;W;WH;5;02:39:31;02:39:31;2005
+9;F16;Gradwohl;Eva Maria;Österreich;AUT;1973;W;W30;3;02:39:51;02:39:51;2005
+10;F7124;Draskau-Petersson;Jess; ;GBR;1977;W;WH;6;02:42:01;02:42:01;2005
+11;F24;Keddie;Gill;Großbritannien;GBR;1969;W;W35;2;02:43:42;02:43:42;2005
+12;F25;Alexander;Rosalyn;Großbritannien;GBR;0;W;WH;7;02:44:21;02:44:21;2005
+13;F26;Wiklund;Lisa;Schweden;SWE;1970;W;W35;3;02:45:32;02:45:32;2005
+14;F35;Hazlitt;Karen;Großbritannien;GBR;0;W;WH;8;02:45:41;02:45:41;2005
+15;F31;Kelsey;Jo;Großbritannien;GBR;1977;W;WH;9;02:46:45;02:46:45;2005
+16;F8939;May;Holly;City of Bath AC;GBR;1977;W;WH;10;02:46:51;02:46:51;2005
+17;F28;Karlsson;Pernilla;Schweden;SWE;0;W;WH;11;02:47:07;02:47:07;2005
+18;F3015;Ventrella;Paola;A.S.D. DRAGONERO CARAGLIESE;ITA;1972;W;W30;4;02:47:47;02:47:47;2005
+19;F23;Watson;Louise;Stragglers;GBR;1971;W;W30;5;02:47:58;02:47:58;2005
+20;F1252;Meyer;Bianca;SCC Berlin;GER;1974;W;W30;6;02:48:20;02:48:2;2005
+1;F1;Wami;Gete;Äthiopien;ETH;1974;W;W30;1;02:23:17;02:23:17;2007
+2;F5;Mikitenko;Irina;Deutschland;GER;1972;W;W35;1;02:24:51;02:24:51;2007
+3;F8;Kirop;Helena;Kenia;KEN;1976;W;W30;2;02:26:27;02:26:27;2007
+4;F3;Timofeyeva;Irina;Russland;RUS;1970;W;W35;2;02:26:54;02:26:54;2007
+5;F2;Sakamoto;Naoko;Japan;JPN;1980;W;WH;1;02:28:33;02:28:33;2007
+6;F12;Haining;Hayley;Großbritannien;GBR;1972;W;W35;3;02:30:43;02:30:43;2007
+7;F10;Kerubo Nyangacha;Rose;Kenia;KEN;1976;W;W30;3;02:31:33;02:31:33;2007
+8;F38;Carneiro;Leonor;Portugal;PRT;1978;W;WH;2;02:31:41;02:31:41;2007
+9;F17;Flueckiger-Joly;Angeline;Schweiz;CHE;1974;W;W30;4;02:35:57;02:35:57;2007
+10;F19;Gradwohl;Eva-Maria;Österreich;AUT;1973;W;W30;5;02:36:21;02:36:21;2007
+11;F24;Casares;Ana;Spanien;ESP;1971;W;W35;4;02:36:58;02:36:58;2007
+12;F28;Magnusson;Lilian;Schweden;SWE;1968;W;W35;5;02:37:47;02:37:47;2007
+13;F6;Ogawa;Mina;Japan;JPN;1975;W;W30;6;02:37:50;02:37:50;2007
+14;F40;Ryan;Rosemary;Irland;IRL;1975;W;W30;7;02:39:31;02:39:31;2007
+15;F25;Neuenschwander;Maja;Schweiz;CHE;1980;W;WH;3;02:40:01;02:40:01;2007
+16;F23;Smolders;Anja;Belgien;BEL;1973;W;W30;8;02:41:33;02:41:36;2007
+17;F26;Robson;Denise;Kanada;CAN;1968;W;W35;6;02:44:28;02:44:31;2007
+18;F27;Trost;Eva;LG Rupertiwinkel;GER;1968;W;W35;7;02:44:51;02:44:54;2007
+19;F16;Moore;Rebecca;Neuseeland;NZL;1973;W;W30;9;02:46:29;02:46:31;2007
+20;F22;Mikhaylova;Milka;Bulgarien;BGR;1972;W;W35;8;02:46:45;02:46:4;2007
+1;F2;Mikitenko;Irina;TV Wattenscheid;GER;1972;W;W35;1;02:19:19;02:19:19;2008
+2;F4;Magarsa;Askale Tafa; ;ETH;1984;W;WH;1;02:21:31;02:21:31;2008
+3;F3;Kirop;Helena; ;KEN;1976;W;W30;1;02:25:01;02:25:01;2008
+4;F5;Cheruiyot;Rose; ;KEN;1976;W;W30;2;02:26:25;02:26:25;2008
+5;F7;Vigovskaya;Gulnara; ;RUS;1980;W;WH;2;02:30:03;02:30:03;2008
+6;F11;Deriba;Shuru; ;ETH;1982;W;WH;3;02:31:20;02:31:20;2008
+7;F15;Lewandoswka;Edyta; ;POL;1980;W;WH;4;02:33:00;02:33:00;2008
+8;F17;Kimuria;Evelyne; ;KEN;0;W;WH;5;02:35:53;02:35:53;2008
+9;F20;Cirlan;Daniela; ;ROU;1980;W;WH;6;02:36:18;02:36:18;2008
+10;F6;Balciunaite;Zivile; ;LTU;1979;W;WH;7;02:36:40;02:36:40;2008
+11;F16;Aagaard;Anne-Mette; ;DNK;1973;W;W35;2;02:37:04;02:37:04;2008
+12;F25;Neuenschwander;Maja; ;CHE;1980;W;WH;8;02:38:53;02:38:53;2008
+13;F14;Worku;Tsege; ;ETH;1982;W;WH;9;02:46:03;02:46:03;2008
+14;F2757;Erb;Esther; ;USA;1986;W;WH;10;02:46:15;02:46:33;2008
+15;F1018;Kvaeven;Wenche Laegraid;GT International;NOR;1965;W;W40;1;02:48:40;02:48:48;2008
+16;F1789;Bog;Susanne; ;GER;1970;W;W35;3;02:48:48;02:48:53;2008
+17;F2833;Fan;Sui Ping; ;HKG;1973;W;W35;4;02:48:58;02:49:08;2008
+18;F9623;Qi Hui;Anne;adidas Team;SGP;1980;W;WH;11;02:50:23;02:50:30;2008
+19;F6477;Parits;Tina;HSV Kaisersteinbruch;AUT;1980;W;WH;12;02:51:11;02:51:19;2008
+20;F1027;Jaccheri;Elena; ;ITA;1967;W;W40;2;02:51:48;02:51:5;2008
+1;F3;Besuye;Atsede Habtamu; ;ETH;1987;W;WH;1;02:24:47;02:24:47;2009
+2;F6;Skvortsova;Silvia; ;RUS;1974;W;W35;1;02:26:24;02:26:24;2009
+3;F30;Daska;Mamitu; ;ETH;1983;W;WH;2;02:26:38;02:26:38;2009
+4;F8;Console;Rosaria; ;ITA;1979;W;W30;1;02:26:45;02:26:45;2009
+5;F5;Getaneh;Genet; ;ETH;1986;W;WH;3;02:27:09;02:27:09;2009
+6;F12;Malot;Leah; ;KEN;1972;W;W35;2;02:29:17;02:29:17;2009
+7;F9;Aryasova;Tatiana; ;RUS;1979;W;W30;2;02:32:17;02:32:17;2009
+8;F31;Nyetipei;Jacqueline; ;KEN;0;W;WH;4;02:34:16;02:34:16;2009
+9;F16;Neuenschwander;Maja; ;CHE;1980;W;WH;5;02:35:44;02:35:44;2009
+10;F10;Haining;Hayley; ;GBR;1972;W;W35;3;02:36:08;02:36:08;2009
+11;F18;Schulz;Melanie;LC Erfurt;GER;1979;W;W30;3;02:44:56;02:44:56;2009
+12;F2866;Hansen;Anne-sofie Pade;Spart;DNK;1973;W;W35;4;02:45:04;02:45:11;2009
+13;F8760;Fratus;Elena;Born2run;ITA;1975;W;W30;4;02:47:26;02:47:30;2009
+14;F32;Bahmend;Svetlana; ;ISR;1976;W;W30;5;02:47:36;02:47:36;2009
+15;F21;Molnar;Barbara; ;HUN;1984;W;WH;6;02:48:26;02:48:26;2009
+16;F883;Bittel;Silke;LAC Quelle Fürth;GER;1975;W;W30;6;02:49:11;02:49:48;2009
+17;F8924;Houlborg;Vibeke;Givskov Loeb;DNK;1976;W;W30;7;02:51:26;02:51:40;2009
+18;F7474;Tilma;Kathrine;AGF Atletik Adidas;DNK;1976;W;W30;8;02:51:33;02:51:37;2009
+19;F8863;Hansen;Lone balling; ;DNK;1976;W;W30;9;02:52:04;02:53:22;2009
+20;F5928;Puotiniemi;Leena;If Länken;FIN;1976;W;W30;10;02:53:30;02:53:5;2009
+1;F3;Kebede;Aberu;Äthiopien;ETH;1986;W;WH;1;02:23:58;02:23:58;2010
+2;F2;Bekele;Bezunesh;Äthiopien;ETH;1983;W;WH;2;02:24:58;02:24:58;2010
+3;F4;Morimoto;Tomo;Tenmaya;JPN;1983;W;WH;3;02:26:10;02:26:10;2010
+4;F5;Mockenhaupt;Sabrina;Kölner Verein für Marathon;GER;1980;W;W30;1;02:26:21;02:26:21;2010
+5;F9;Burkovska;Olena;Ukraine;UKR;1981;W;WH;4;02:28:31;02:28:31;2010
+6;F7;Pirtea;Adriana;Rumänien;ROU;1980;W;W30;2;02:30:15;02:30:15;2010
+7;F16;Da Silva;Adriana;Brasilien;BRA;1981;W;WH;5;02:32:30;02:32:30;2010
+8;F13;Maxwell;Tanith; ;ZAF;1976;W;W30;3;02:32:33;02:32:33;2010
+9;F21;Stublic;Lisa;Kroatien;HRV;1984;W;WH;6;02:33:42;02:33:42;2010
+10;F15;Gortel;Agnieszka;Ts Aks Chorzow;POL;1977;W;W30;4;02:34:47;02:34:47;2010
+11;F12;Iozzia;Ivana;Italien;ITA;1973;W;W35;1;02:39:29;02:39:29;2010
+12;F20;Schnabel;Anja; ;GER;0;W;W;0;02:41:41;02:41:41;2010
+13;F14;Cirlan;Daniela;Rumänien;ROU;1980;W;W30;5;02:42:34;02:42:34;2010
+14;F7686;Traña;Gabriela;Powerade-brooks;CRI;1980;W;W30;6;02:43:44;02:43:47;2010
+15;F6153;Puotiniemi;Leena;If Länken;FIN;1976;W;W30;7;02:44:25;02:44:55;2010
+16;F5829;Pape;Maria; ;DNK;1985;W;WH;7;02:47:11;03:02:37;2010
+17;F9171;Houlborg;Vibeke;Skive A;DNK;1976;W;W30;8;02:51:43;02:52:08;2010
+18;F6025;Piller;Isabelle;Ca Belfaux;CHE;1971;W;W35;2;02:52:48;02:54:08;2010
+19;F8335;Wong;Siu Ping; ;CHN;1968;W;W40;1;02:52:49;02:53:01;2010
+20;F9434;Levene;Annabel; ;GBR;1982;W;WH;8;02:53:47;02:54:1;2010
+1;F11;Kiplagat;Florence;Kenia;KEN;1987;W;H;1;02:19:44;02:19:44;2011
+2;F3;Mikitenko;Irina;SC Gelnhausen;GER;1972;W;35;1;02:22:18;02:22:18;2011
+3;F2;Radcliffe;Paula;Großbritanien;GBR;1973;W;35;2;02:23:46;02:23:46;2011
+4;F10;Habtamu;Atsede;Äthiopien;ETH;1987;W;H;2;02:24:25;02:24:25;2011
+5;F6;Petrova;Tatyana;Rußland;RUS;1983;W;H;3;02:25:01;02:25:01;2011
+6;F9;Incerti;Anna;Italien;ITA;1980;W;30;1;02:25:32;02:25:32;2011
+7;F8;Console;Rosaria;Italien;ITA;1979;W;30;2;02:26:10;02:26:10;2011
+8;F26;Straneo;Valeria; ;ITA;1976;W;35;3;02:26:33;02:26:33;2011
+9;F16;Okubo;Eri;Japan;JPN;1983;W;H;4;02:28:49;02:28:49;2011
+10;F12;Boonstra;Miranda;Nijmegen Atletiek;NLD;1972;W;35;4;02:29:23;02:29:23;2011
+11;F27;Lewandowska;Iwona; ;POL;1985;W;H;5;02:30:38;02:30:38;2011
+12;F20;Holth;Christina;Norwegen;NOR;1980;W;30;3;02:33:40;02:33:40;2011
+13;F15;Neuenschwander;Maja; ;CHE;1980;W;30;4;02:33:45;02:33:45;2011
+14;F23;Whitehead;Amy;Sale Manchester;GBR;1978;W;30;5;02:35:39;02:35:39;2011
+15;F22;Puotiniemi;Leena;If Länken;FIN;1976;W;35;5;02:35:54;02:35:54;2011
+16;F25;Bertone;Catherine; ;ITA;1972;W;35;6;02:36:00;02:36:00;2011
+17;F29;Penty;Becky;Großbritanien;GBR;1984;W;H;6;02:36:19;02:36:19;2011
+18;F19;Sanfabio;Tamara;Spanien;ESP;1978;W;30;6;02:36:48;02:36:48;2011
+19;F9588;Laubertie;Patricia;Planet Tours;FRA;1988;W;H;7;02:36:50;02:36:55;2011
+20;F24;Optekamp;Silke;PSV Grün-Weiß Kassel;GER;1978;W;30;7;02:37:17;02:37:1;2011
+1;F2;Kebede;Aberu;Äthiopien;ETH;1989;W;H;1;02:20:30;02:20:30;2012
+2;F16;Tsegaye;Tirfi;Äthiopien;ETH;1984;W;H;2;02:21:19;02:21:19;2012
+3;F8;Shurhno;Olena;Ukraine;UKR;1978;W;30;1;02:23:32;02:23:32;2012
+4;F5;Chepchirchir;Flomena;Kenia;KEN;1981;W;30;2;02:24:56;02:24:56;2012
+5;F9;Tola;Fate; ;ETH;1987;W;H;3;02:25:14;02:25:14;2012
+6;F7;Biktimirova;Alevtina;Russland;RUS;1982;W;30;3;02:28:45;02:28:45;2012
+7;F15;Chepkwony;Caroline;Kenia;KEN;1984;W;H;4;02:30:34;02:30:34;2012
+8;F12;Hahner;Anna;Run2Sky;GER;1989;W;H;5;02:30:37;02:30:37;2012
+9;F14;Samuels;Sonia;GBR;GBR;1979;W;30;4;02:30:56;02:30:56;2012
+10;F10;Biruktayit;Degefa;Äthiopien;ETH;1985;W;H;6;02:33:27;02:33:27;2012
+11;F21;Neipan;Karina;Argentinien;ARG;1982;W;30;5;02:42:05;02:42:05;2012
+12;F22;Amend;Samantha; ;GBR;1979;W;30;6;02:45:50;02:45:50;2012
+13;F2417;Fardell;Jane; ;AUS;1980;W;30;7;02:46:23;02:46:36;2012
+14;F10577;Prigge;Ingrid;Laac;NLD;1963;W;45;1;02:47:54;02:48:15;2012
+15;F3700;Houlborg;Vibeke; ;DNK;1976;W;35;1;02:49:45;02:49:59;2012
+16;F20;Aikawa;Yuka;Japan;JPN;1985;W;H;7;02:49:52;02:49:52;2012
+17;F635;Ambjörnsson;Josephine;Hässelby SK;SWE;1983;W;H;8;02:49:53;02:50:10;2012
+18;F9700;Hansen;Lone Balling; ;DNK;1976;W;35;2;02:50:26;02:50:51;2012
+19;F8202;Ugena;Elena;AD Marathon;ESP;1973;W;35;3;02:50:28;02:51:03;2012
+20;F2822;Gerdevåg;Josefin;Kfum Örebro friidrott;SWE;1981;W;30;8;02:52:13;02:52:3;2012
+1;F3;Kiplagat;Florence;Kenia;KEN;1987;W;H;1;02:21:13;02:21:13;2013
+2;F6;Cherop;Sharon;Kenia;KEN;1984;W;H;2;02:22:28;02:22:28;2013
+3;F2;Mikitenko;Irina;LG Eintracht Frankfurt;GER;1972;W;40;1;02:24:54;02:24:54;2013
+4;F15;Kiprop;Helah;Kenia;KEN;1985;W;H;3;02:28:02;02:28:02;2013
+5;F5;Davila;Desiree; ;USA;1983;W;30;1;02:29:15;02:29:15;2013
+6;F12279;de la Rosa;Vianey; ;MEX;1986;W;H;4;02:32:35;02:32:35;2013
+7;F9;Hayakawa;Eri;Japan;JPN;1981;W;30;2;02:37:45;02:37:45;2013
+8;F18;Stöcker;Nina;LG Ratio Münster;GER;1992;W;H;5;02:37:46;02:37:46;2013
+9;F17;Lee;Lizzi; ;IRL;1980;W;30;3;02:38:09;02:38:09;2013
+10;F10268;Gutierrez;Maria Yolanda;NEW BALANCE TEAM;ESP;1982;W;30;4;02:38:18;02:38:18;2013
+11;F27;Nunige;Jasmin;Track Club Davos;CHE;1973;W;40;2;02:39:00;02:39:00;2013
+12;F25;Riga;Sofia; ;GRC;1988;W;H;6;02:39:10;02:39:10;2013
+13;F24;Ganiel;Gladys; ;IRL;1977;W;35;1;02:39:26;02:39:26;2013
+14;F11;Pohl;Veronica;TSV Bayer Leverkusen;GER;1985;W;H;7;02:45:53;02:45:53;2013
+15;F575;Alder-Baerens;Nele; ;GER;1978;W;35;2;02:46:07;02:47:03;2013
+16;F19;Rüegger;Susanne;LK Zug;CHE;1984;W;H;8;02:46:28;02:46:28;2013
+17;F10661;Kleis-Kristoffersen;Anne Mette;Viborg Atletik Og motion;DNK;1974;W;35;3;02:47:32;02:47:39;2013
+18;F11769;Sønder;Luise;Givskov Løb/Skive AM;DNK;1978;W;35;4;02:48:04;02:48:24;2013
+19;F3560;Hjelmsø;Lene;Newton Running/CEP;DNK;1979;W;30;5;02:49:10;02:49:32;2013
+20;F28;Muramatsu;Natsuko; ;JPN;1976;W;35;5;02:49:34;02:49:3;2013
+1;F3;Tsegaye;Tirfi;Äthiopien;ETH;1984;W;30;1;02:20:18;02:20:18;2014
+2;F2;Tadese;Feyse;Äthiopien;ETH;1988;W;H;1;02:20:27;02:20:27;2014
+3;F4;Flanagan;Shalane;USA;USA;1981;W;30;2;02:21:14;02:21:14;2014
+4;F15;Bekele;Tadelech;Äthiopien;ETH;1991;W;H;2;02:23:02;02:23:02;2014
+5;F5;Afework;Abedech;Äthiopien;ETH;1990;W;H;3;02:25:02;02:25:02;2014
+6;F6;Fukushi;Kayoko;Japan;JPN;1982;W;30;3;02:26:25;02:26:25;2014
+7;F7;Hahner;Anna;Run2Sky;GER;1989;W;H;4;02:26:44;02:26:44;2014
+8;F9;Melchor;Ines;Peru;PER;1986;W;H;5;02:26:48;02:26:48;2014
+9;F11;Kalmer;Rene;Südafrika;ZAF;1980;W;30;4;02:29:27;02:29:27;2014
+10;F10;Da Silva;Adriana;Brasilien;BRA;1981;W;30;5;02:38:05;02:38:05;2014
+11;F40;Neipan;Karina;Argentinien;ARG;1982;W;30;6;02:41:21;02:41:21;2014
+12;F14;Das Chagas;Michele;Brasilien;BRA;1987;W;H;6;02:42:19;02:42:19;2014
+13;F13;Romero;Natalia;Chile;CHL;1980;W;30;7;02:43:36;02:43:36;2014
+14;F3004;Garami;Katalin; ;HUN;1979;W;35;1;02:46:38;02:46:38;2014
+15;F39;Yoshikawa;Toshiko; ;JPN;1979;W;35;2;02:49:46;02:49:46;2014
+16;F6661;Parmentier;Ann;AZW;BEL;1979;W;35;3;02:50:12;02:50:12;2014
+17;F3333;Groß-Hardt;Jana;LAZ Rhede;GER;1988;W;H;7;02:50:54;02:50:54;2014
+18;F921;Barlow;Tracy;Thames Valley Harriers;GBR;1985;W;H;8;02:51:29;02:51:29;2014
+19;F377;Parsiegla;Karsta;SCC Berlin;GER;1963;W;50;1;02:51:47;02:51:47;2014
+20;F2486;Egholm;Marna Leila Vandsdal;Sparta;DNK;1981;W;30;8;02:52:00;02:52:0;2014
+1;F2;Cherono;Gladys;Kenia;KEN;1983;W;30;1;02:19:25;02:19:25;2015
+2;F3;Kebede;Aberu;Äthiopien;ETH;1986;W;H;1;02:20:48;02:20:48;2015
+3;F4;Hailu;Meseret;Äthiopien;ETH;1990;W;H;2;02:24:33;02:24:33;2015
+4;F5;Bekele;Tadelech;Äthiopien;ETH;1991;W;H;3;02:25:01;02:25:01;2015
+5;F19;Deelstra;Andrea;Niederlande;NED;1985;W;30;2;02:26:46;02:26:46;2015
+6;F14;Neuenschwander;Maja;ST Bern;SUI;1980;W;35;1;02:26:49;02:26:49;2015
+7;F9;Nemec;Lisa;Kroatien;CRO;1984;W;30;3;02:27:57;02:27:57;2015
+8;F10;Tanaka;Tomomi;Japan;JPN;1988;W;H;4;02:28:00;02:28:00;2015
+9;F15;Samuels;Sonia;Großbritanien;GBR;1979;W;35;2;02:28:04;02:28:04;2015
+10;F7;Tola;Fate;LG Braunschweig;ETH;1987;W;H;5;02:28:24;02:28:24;2015
+11;F16;Dixon;Alyson;Großbritanien;GBR;1978;W;35;3;02:29:30;02:29:30;2015
+12;F27;Kowalska;Katarzyna;Polen;POL;1985;W;30;4;02:29:41;02:29:41;2015
+13;F11;Hahner;Anna;Run2Sky;GER;1989;W;H;6;02:30:19;02:30:19;2015
+14;F8;Hayakawa;Eri;Japan;JPN;1981;W;30;5;02:31:27;02:31:27;2015
+15;F12;Toniolo;Deborah;GS Forestale;ITA;1977;W;35;4;02:31:28;02:31:28;2015
+16;F34;Dejaeghere;Veerle; ;BEL;1973;W;40;1;02:31:56;02:31:56;2015
+17;F31;Lee;Elizabeth;Leevale AC;IRL;1980;W;35;5;02:32:51;02:32:51;2015
+18;F25;Arzapana;Vilma;Peru;PER;1982;W;30;6;02:33:21;02:33:21;2015
+19;F28;Dionne;Hilary;USA;USA;1985;W;30;7;02:34:45;02:34:45;2015
+20;F22;Komu;Martha;Clermont Athletisme Auvergne;FRA;1983;W;30;8;02:35:12;02:35:1;2015
+1;F1;Kebede;Aberu;Äthiopien;ETH;1986;W;30;1;02:20:45;02:20:45;2016
+2;F3;Dibaba;Birhane;Äthiopien;ETH;1993;W;H;1;02:23:58;02:23:58;2016
+3;F5;Aga;Ruti;Äthiopien;ETH;1994;W;H;2;02:24:41;02:24:41;2016
+4;F4;Iwade;Reia;Noritz;JPN;1994;W;H;3;02:28:16;02:28:16;2016
+5;F10;Heinig;Katharina;LG Eintracht Frankfurt;GER;1989;W;H;4;02:28:34;02:28:34;2016
+6;F6;Ronoh;Janet;Kenia;KEN;1988;W;H;5;02:29:35;02:29:35;2016
+7;13603;Dolinin;Elena;M&m;ISR;1978;W;35;1;02:35:59;02:35:59;2016
+8;F8;Fien;Cassie;Australien;AUS;1985;W;30;2;02:37:28;02:37:28;2016
+9;F22;McCarthy;Claire;Irland;IRL;1976;W;40;1;02:38:00;02:38:00;2016
+10;F13;Ganiel;Gladys;North Belfast Harriers;IRL;1977;W;35;2;02:39:10;02:39:10;2016
+11;F15;Chemtai;Lonah Korlima;Maccabi Tel Aviv;ISR;1988;W;H;6;02:40:16;02:40:16;2016
+12;12840;Degan;Julia;Sydney Striders;AUS;1981;W;35;3;02:42:38;02:42:57;2016
+13;27312;Larsson;Mikaela;Sp Rvägen Fk;SWE;1985;W;30;3;02:44:15;02:44:31;2016
+14;24285;Kemppi;Mikaela;Örebro Aik;SWE;1973;W;40;2;02:44:46;02:44:50;2016
+15;F20;Galle;Eva;DCLA;BEL;1992;W;H;7;02:46:09;02:46:09;2016
+16;26742;Kvernmo;Kathrine;Bardu IL;NOR;1993;W;H;8;02:48:38;02:50:21;2016
+17;31806;Moen Guidon;Karoline;Idrettslaget Trysilgutten;NOR;1991;W;H;9;02:48:40;02:50:00;2016
+18;17532;Gill;Nadine;Auswärtiges Amt;GER;1991;W;H;10;02:49:02;02:49:28;2016
+19;17052;Gascoigne-Owens;Johanna;Alnwick Harriers;GBR;1979;W;35;4;02:49:45;02:50:45;2016
+20;38072;Rivard;Susie; ;USA;1987;W;H;11;02:50:04;02:50:27;2016
